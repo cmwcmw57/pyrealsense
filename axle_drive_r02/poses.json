@@ -1,0 +1,12 @@
+{
+  "Straight": {},
+  "Curve_R50": {
+    "rear_yaw": -0.5729673448571527,
+    "front_yaw": 0.5729673448571527
+  },
+  "Articulation_DEMO": {
+    "rear_pitch": -1,
+    "front_pitch": 1,
+    "front_roll": 2
+  }
+}

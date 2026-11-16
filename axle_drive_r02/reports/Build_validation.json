@@ -1,0 +1,12 @@
+{
+  "all_parts_valid": true,
+  "each_part_one_solid": true,
+  "parts": 181,
+  "guide_rollers": 16,
+  "chain_centers_mm": [
+    260.55336990996767,
+    262.21268564989464
+  ],
+  "chain_ratio": 7.5,
+  "mesh_is_reference_not_fusion_history": true
+}

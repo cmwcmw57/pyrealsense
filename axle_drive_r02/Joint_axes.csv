@@ -1,0 +1,6 @@
+joint,axis,global_center_mm,allowed_body_relation,status
+rear_yaw,Z,"-500,0,400",whole bogie to pitch carrier,bearing housing not finalized
+rear_pitch,Y,"-500,0,490",yaw carrier to fork,pin retention/bush fit pending
+front_yaw,Z,"500,0,400",whole bogie to pitch carrier,bearing housing not finalized
+front_pitch,Y,"500,0,490",yaw carrier to fork,pin retention/bush fit pending
+front_roll,X,"500,0,575",front pitch fork to chassis,pin retention/stops pending

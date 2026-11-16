@@ -1,0 +1,182 @@
+name,quantity,type,material,group,bogie,joint_stage,note
+rear_LIVE_AXLE_KEYSEATS_D40,1,custom,steel,shaft,rear,bogie,"C45 ground bearing seats. Key12x8 candidate. Shoulders, fits, fatigue and axial retention pending."
+rear_RAILWHEEL_-1,1,custom,steel,wheel,rear,bogie,"Custom wheel blank envelope; 1:20 taper provisional, flange root/angle NOT standard restored. Bore40 key12x8."
+rear_KEY_WHEEL_-1,1,purchase,steel,shaft,rear,bogie,DIN6885 12x8 nominal; fits/end clearance pending
+rear_AXIAL_COLLAR_-1_-1,1,purchase,steel,shaft,rear,bogie,split clamp collar envelope; axial retention rating pending
+rear_AXIAL_COLLAR_-1_1,1,purchase,steel,shaft,rear,bogie,split clamp collar envelope; axial retention rating pending
+rear_UCP208_-1,1,purchase,steel,shaft,rear,bogie,"UCP208 envelope, d40, H49.2; supplier mounting dimensions must be confirmed"
+rear_BEARING_SHELF_-1,1,custom,steel,plate,rear,bogie,"S355 t12 shelf, 2 M14 bolts through17mm clearance holes"
+rear_HANGER_-1_-1,1,custom,steel,plate,rear,bogie,S355 welded hanger t12; welds and frame bolt tabs pending
+rear_HANGER_-1_1,1,custom,steel,plate,rear,bogie,S355 welded hanger t12; welds and frame bolt tabs pending
+rear_RAILWHEEL_1,1,custom,steel,wheel,rear,bogie,"Custom wheel blank envelope; 1:20 taper provisional, flange root/angle NOT standard restored. Bore40 key12x8."
+rear_KEY_WHEEL_1,1,purchase,steel,shaft,rear,bogie,DIN6885 12x8 nominal; fits/end clearance pending
+rear_AXIAL_COLLAR_1_-1,1,purchase,steel,shaft,rear,bogie,split clamp collar envelope; axial retention rating pending
+rear_AXIAL_COLLAR_1_1,1,purchase,steel,shaft,rear,bogie,split clamp collar envelope; axial retention rating pending
+rear_UCP208_1,1,purchase,steel,shaft,rear,bogie,"UCP208 envelope, d40, H49.2; supplier mounting dimensions must be confirmed"
+rear_BEARING_SHELF_1,1,custom,steel,plate,rear,bogie,"S355 t12 shelf, 2 M14 bolts through17mm clearance holes"
+rear_HANGER_1_-1,1,custom,steel,plate,rear,bogie,S355 welded hanger t12; welds and frame bolt tabs pending
+rear_HANGER_1_1,1,custom,steel,plate,rear,bogie,S355 welded hanger t12; welds and frame bolt tabs pending
+rear_LONG_TUBE_-500,1,cut_purchase,S355 RHS 80x40x3,frame,rear,bogie,
+rear_LONG_TUBE_500,1,cut_purchase,S355 RHS 80x40x3,frame,rear,bogie,
+rear_CROSS_TUBE_0.00,1,cut_purchase,S355 RHS 80x40x3,frame,rear,bogie,
+rear_CROSS_TUBE_262.21,1,cut_purchase,S355 RHS 80x40x3,frame,rear,bogie,
+rear_CROSS_TUBE_522.77,1,cut_purchase,S355 RHS 80x40x3,frame,rear,bogie,
+rear_HANGER_TOP_CONNECT_-1,1,custom,steel,plate,rear,bogie,Envelope welded bearing support; lightening/final bolt pattern pending
+rear_HANGER_TOP_CONNECT_1,1,custom,steel,plate,rear,bogie,Envelope welded bearing support; lightening/final bolt pattern pending
+rear_GUIDE_-1_-150_-1,1,custom,steel,guide,rear,bogie,Crowned PU50x28 envelope; bearing6002x2 and spindle details inherited as concept only
+rear_GUIDE_-1_-150_-1_SPINDLE,1,custom,steel,shaft,rear,bogie,"smooth D15 spindle envelope, threads/bearing stack pending"
+rear_GUIDE_-1_-150_-1_POST,1,cut_purchase,S355 RHS40x40x3,frame,rear,bogie,
+rear_GUIDE_-1_-150_-1_ADJUST_ARM,1,custom,steel,plate,rear,bogie,"S355 t8 arm,16x25 Y-slot, clamp/spacers not fully detailed"
+rear_GUIDE_-1_-150_1,1,custom,steel,guide,rear,bogie,Crowned PU50x28 envelope; bearing6002x2 and spindle details inherited as concept only
+rear_GUIDE_-1_-150_1_SPINDLE,1,custom,steel,shaft,rear,bogie,"smooth D15 spindle envelope, threads/bearing stack pending"
+rear_GUIDE_-1_-150_1_POST,1,cut_purchase,S355 RHS40x40x3,frame,rear,bogie,
+rear_GUIDE_-1_-150_1_ADJUST_ARM,1,custom,steel,plate,rear,bogie,"S355 t8 arm,16x25 Y-slot, clamp/spacers not fully detailed"
+rear_GUIDE_-1_150_-1,1,custom,steel,guide,rear,bogie,Crowned PU50x28 envelope; bearing6002x2 and spindle details inherited as concept only
+rear_GUIDE_-1_150_-1_SPINDLE,1,custom,steel,shaft,rear,bogie,"smooth D15 spindle envelope, threads/bearing stack pending"
+rear_GUIDE_-1_150_-1_POST,1,cut_purchase,S355 RHS40x40x3,frame,rear,bogie,
+rear_GUIDE_-1_150_-1_ADJUST_ARM,1,custom,steel,plate,rear,bogie,"S355 t8 arm,16x25 Y-slot, clamp/spacers not fully detailed"
+rear_GUIDE_-1_150_1,1,custom,steel,guide,rear,bogie,Crowned PU50x28 envelope; bearing6002x2 and spindle details inherited as concept only
+rear_GUIDE_-1_150_1_SPINDLE,1,custom,steel,shaft,rear,bogie,"smooth D15 spindle envelope, threads/bearing stack pending"
+rear_GUIDE_-1_150_1_POST,1,cut_purchase,S355 RHS40x40x3,frame,rear,bogie,
+rear_GUIDE_-1_150_1_ADJUST_ARM,1,custom,steel,plate,rear,bogie,"S355 t8 arm,16x25 Y-slot, clamp/spacers not fully detailed"
+rear_GUIDE_1_-150_-1,1,custom,steel,guide,rear,bogie,Crowned PU50x28 envelope; bearing6002x2 and spindle details inherited as concept only
+rear_GUIDE_1_-150_-1_SPINDLE,1,custom,steel,shaft,rear,bogie,"smooth D15 spindle envelope, threads/bearing stack pending"
+rear_GUIDE_1_-150_-1_POST,1,cut_purchase,S355 RHS40x40x3,frame,rear,bogie,
+rear_GUIDE_1_-150_-1_ADJUST_ARM,1,custom,steel,plate,rear,bogie,"S355 t8 arm,16x25 Y-slot, clamp/spacers not fully detailed"
+rear_GUIDE_1_-150_1,1,custom,steel,guide,rear,bogie,Crowned PU50x28 envelope; bearing6002x2 and spindle details inherited as concept only
+rear_GUIDE_1_-150_1_SPINDLE,1,custom,steel,shaft,rear,bogie,"smooth D15 spindle envelope, threads/bearing stack pending"
+rear_GUIDE_1_-150_1_POST,1,cut_purchase,S355 RHS40x40x3,frame,rear,bogie,
+rear_GUIDE_1_-150_1_ADJUST_ARM,1,custom,steel,plate,rear,bogie,"S355 t8 arm,16x25 Y-slot, clamp/spacers not fully detailed"
+rear_GUIDE_1_150_-1,1,custom,steel,guide,rear,bogie,Crowned PU50x28 envelope; bearing6002x2 and spindle details inherited as concept only
+rear_GUIDE_1_150_-1_SPINDLE,1,custom,steel,shaft,rear,bogie,"smooth D15 spindle envelope, threads/bearing stack pending"
+rear_GUIDE_1_150_-1_POST,1,cut_purchase,S355 RHS40x40x3,frame,rear,bogie,
+rear_GUIDE_1_150_-1_ADJUST_ARM,1,custom,steel,plate,rear,bogie,"S355 t8 arm,16x25 Y-slot, clamp/spacers not fully detailed"
+rear_GUIDE_1_150_1,1,custom,steel,guide,rear,bogie,Crowned PU50x28 envelope; bearing6002x2 and spindle details inherited as concept only
+rear_GUIDE_1_150_1_SPINDLE,1,custom,steel,shaft,rear,bogie,"smooth D15 spindle envelope, threads/bearing stack pending"
+rear_GUIDE_1_150_1_POST,1,cut_purchase,S355 RHS40x40x3,frame,rear,bogie,
+rear_GUIDE_1_150_1_ADJUST_ARM,1,custom,steel,plate,rear,bogie,"S355 t8 arm,16x25 Y-slot, clamp/spacers not fully detailed"
+rear_GUIDE_TOP_TIE_-884.0,1,cut_purchase,S355 RHS40x40x3,frame,rear,bogie,
+rear_GUIDE_TOP_TIE_-616.0,1,cut_purchase,S355 RHS40x40x3,frame,rear,bogie,
+rear_GUIDE_TOP_TIE_616.0,1,cut_purchase,S355 RHS40x40x3,frame,rear,bogie,
+rear_GUIDE_TOP_TIE_884.0,1,cut_purchase,S355 RHS40x40x3,frame,rear,bogie,
+rear_YAW_LOWER_PLATE,1,custom,steel,plate,rear,bogie,M8 bolt-circle radius65 provisional; bearing retaining shoulders pending
+rear_YAW_UPPER_PLATE,1,custom,steel,plate,rear,yaw_carrier,M8 bolt-circle radius65 provisional; bearing retaining shoulders pending
+rear_YAW_THRUST_BEARING_ENVELOPE,1,purchase_pending,steel,joint,rear,yaw_carrier,Paired angular-contact/turntable bearing selection pending; envelope not catalogue item
+rear_YAW_KINGPIN_D40,1,custom,steel,shaft,rear,yaw_carrier,Kingpin retention and bearing fits pending
+rear_YAW_CARRIER,1,custom,steel,plate,rear,yaw_carrier,
+rear_PITCH_INNER_LUG,1,custom,steel,joint,rear,yaw_carrier,
+rear_PITCH_PIN_D30,1,custom,steel,shaft,rear,roll_carrier,
+rear_PITCH_FORK_-1,1,custom,steel,plate,rear,roll_carrier,Bushed pitch fork. Axial pin retention and bush fit pending
+rear_PITCH_FORK_1,1,custom,steel,plate,rear,roll_carrier,Bushed pitch fork. Axial pin retention and bush fit pending
+rear_PITCH_FORK_TOP,1,custom,steel,plate,rear,roll_carrier,
+rear_YAW_STOP_RESERVED_-1,1,custom,steel,joint,rear,yaw_carrier,Stop envelope. Contact angles and elastomer selection pending
+rear_YAW_STOP_RESERVED_1,1,custom,steel,joint,rear,yaw_carrier,Stop envelope. Contact angles and elastomer selection pending
+front_LIVE_AXLE_KEYSEATS_D40,1,custom,steel,shaft,front,bogie,"C45 ground bearing seats. Key12x8 candidate. Shoulders, fits, fatigue and axial retention pending."
+front_RAILWHEEL_-1,1,custom,steel,wheel,front,bogie,"Custom wheel blank envelope; 1:20 taper provisional, flange root/angle NOT standard restored. Bore40 key12x8."
+front_KEY_WHEEL_-1,1,purchase,steel,shaft,front,bogie,DIN6885 12x8 nominal; fits/end clearance pending
+front_AXIAL_COLLAR_-1_-1,1,purchase,steel,shaft,front,bogie,split clamp collar envelope; axial retention rating pending
+front_AXIAL_COLLAR_-1_1,1,purchase,steel,shaft,front,bogie,split clamp collar envelope; axial retention rating pending
+front_UCP208_-1,1,purchase,steel,shaft,front,bogie,"UCP208 envelope, d40, H49.2; supplier mounting dimensions must be confirmed"
+front_BEARING_SHELF_-1,1,custom,steel,plate,front,bogie,"S355 t12 shelf, 2 M14 bolts through17mm clearance holes"
+front_HANGER_-1_-1,1,custom,steel,plate,front,bogie,S355 welded hanger t12; welds and frame bolt tabs pending
+front_HANGER_-1_1,1,custom,steel,plate,front,bogie,S355 welded hanger t12; welds and frame bolt tabs pending
+front_RAILWHEEL_1,1,custom,steel,wheel,front,bogie,"Custom wheel blank envelope; 1:20 taper provisional, flange root/angle NOT standard restored. Bore40 key12x8."
+front_KEY_WHEEL_1,1,purchase,steel,shaft,front,bogie,DIN6885 12x8 nominal; fits/end clearance pending
+front_AXIAL_COLLAR_1_-1,1,purchase,steel,shaft,front,bogie,split clamp collar envelope; axial retention rating pending
+front_AXIAL_COLLAR_1_1,1,purchase,steel,shaft,front,bogie,split clamp collar envelope; axial retention rating pending
+front_UCP208_1,1,purchase,steel,shaft,front,bogie,"UCP208 envelope, d40, H49.2; supplier mounting dimensions must be confirmed"
+front_BEARING_SHELF_1,1,custom,steel,plate,front,bogie,"S355 t12 shelf, 2 M14 bolts through17mm clearance holes"
+front_HANGER_1_-1,1,custom,steel,plate,front,bogie,S355 welded hanger t12; welds and frame bolt tabs pending
+front_HANGER_1_1,1,custom,steel,plate,front,bogie,S355 welded hanger t12; welds and frame bolt tabs pending
+front_LONG_TUBE_-500,1,cut_purchase,S355 RHS 80x40x3,frame,front,bogie,
+front_LONG_TUBE_500,1,cut_purchase,S355 RHS 80x40x3,frame,front,bogie,
+front_CROSS_TUBE_0.00,1,cut_purchase,S355 RHS 80x40x3,frame,front,bogie,
+front_CROSS_TUBE_262.21,1,cut_purchase,S355 RHS 80x40x3,frame,front,bogie,
+front_CROSS_TUBE_450.00,1,cut_purchase,S355 RHS 80x40x3,frame,front,bogie,
+front_HANGER_TOP_CONNECT_-1,1,custom,steel,plate,front,bogie,Envelope welded bearing support; lightening/final bolt pattern pending
+front_HANGER_TOP_CONNECT_1,1,custom,steel,plate,front,bogie,Envelope welded bearing support; lightening/final bolt pattern pending
+front_GUIDE_-1_-150_-1,1,custom,steel,guide,front,bogie,Crowned PU50x28 envelope; bearing6002x2 and spindle details inherited as concept only
+front_GUIDE_-1_-150_-1_SPINDLE,1,custom,steel,shaft,front,bogie,"smooth D15 spindle envelope, threads/bearing stack pending"
+front_GUIDE_-1_-150_-1_POST,1,cut_purchase,S355 RHS40x40x3,frame,front,bogie,
+front_GUIDE_-1_-150_-1_ADJUST_ARM,1,custom,steel,plate,front,bogie,"S355 t8 arm,16x25 Y-slot, clamp/spacers not fully detailed"
+front_GUIDE_-1_-150_1,1,custom,steel,guide,front,bogie,Crowned PU50x28 envelope; bearing6002x2 and spindle details inherited as concept only
+front_GUIDE_-1_-150_1_SPINDLE,1,custom,steel,shaft,front,bogie,"smooth D15 spindle envelope, threads/bearing stack pending"
+front_GUIDE_-1_-150_1_POST,1,cut_purchase,S355 RHS40x40x3,frame,front,bogie,
+front_GUIDE_-1_-150_1_ADJUST_ARM,1,custom,steel,plate,front,bogie,"S355 t8 arm,16x25 Y-slot, clamp/spacers not fully detailed"
+front_GUIDE_-1_150_-1,1,custom,steel,guide,front,bogie,Crowned PU50x28 envelope; bearing6002x2 and spindle details inherited as concept only
+front_GUIDE_-1_150_-1_SPINDLE,1,custom,steel,shaft,front,bogie,"smooth D15 spindle envelope, threads/bearing stack pending"
+front_GUIDE_-1_150_-1_POST,1,cut_purchase,S355 RHS40x40x3,frame,front,bogie,
+front_GUIDE_-1_150_-1_ADJUST_ARM,1,custom,steel,plate,front,bogie,"S355 t8 arm,16x25 Y-slot, clamp/spacers not fully detailed"
+front_GUIDE_-1_150_1,1,custom,steel,guide,front,bogie,Crowned PU50x28 envelope; bearing6002x2 and spindle details inherited as concept only
+front_GUIDE_-1_150_1_SPINDLE,1,custom,steel,shaft,front,bogie,"smooth D15 spindle envelope, threads/bearing stack pending"
+front_GUIDE_-1_150_1_POST,1,cut_purchase,S355 RHS40x40x3,frame,front,bogie,
+front_GUIDE_-1_150_1_ADJUST_ARM,1,custom,steel,plate,front,bogie,"S355 t8 arm,16x25 Y-slot, clamp/spacers not fully detailed"
+front_GUIDE_1_-150_-1,1,custom,steel,guide,front,bogie,Crowned PU50x28 envelope; bearing6002x2 and spindle details inherited as concept only
+front_GUIDE_1_-150_-1_SPINDLE,1,custom,steel,shaft,front,bogie,"smooth D15 spindle envelope, threads/bearing stack pending"
+front_GUIDE_1_-150_-1_POST,1,cut_purchase,S355 RHS40x40x3,frame,front,bogie,
+front_GUIDE_1_-150_-1_ADJUST_ARM,1,custom,steel,plate,front,bogie,"S355 t8 arm,16x25 Y-slot, clamp/spacers not fully detailed"
+front_GUIDE_1_-150_1,1,custom,steel,guide,front,bogie,Crowned PU50x28 envelope; bearing6002x2 and spindle details inherited as concept only
+front_GUIDE_1_-150_1_SPINDLE,1,custom,steel,shaft,front,bogie,"smooth D15 spindle envelope, threads/bearing stack pending"
+front_GUIDE_1_-150_1_POST,1,cut_purchase,S355 RHS40x40x3,frame,front,bogie,
+front_GUIDE_1_-150_1_ADJUST_ARM,1,custom,steel,plate,front,bogie,"S355 t8 arm,16x25 Y-slot, clamp/spacers not fully detailed"
+front_GUIDE_1_150_-1,1,custom,steel,guide,front,bogie,Crowned PU50x28 envelope; bearing6002x2 and spindle details inherited as concept only
+front_GUIDE_1_150_-1_SPINDLE,1,custom,steel,shaft,front,bogie,"smooth D15 spindle envelope, threads/bearing stack pending"
+front_GUIDE_1_150_-1_POST,1,cut_purchase,S355 RHS40x40x3,frame,front,bogie,
+front_GUIDE_1_150_-1_ADJUST_ARM,1,custom,steel,plate,front,bogie,"S355 t8 arm,16x25 Y-slot, clamp/spacers not fully detailed"
+front_GUIDE_1_150_1,1,custom,steel,guide,front,bogie,Crowned PU50x28 envelope; bearing6002x2 and spindle details inherited as concept only
+front_GUIDE_1_150_1_SPINDLE,1,custom,steel,shaft,front,bogie,"smooth D15 spindle envelope, threads/bearing stack pending"
+front_GUIDE_1_150_1_POST,1,cut_purchase,S355 RHS40x40x3,frame,front,bogie,
+front_GUIDE_1_150_1_ADJUST_ARM,1,custom,steel,plate,front,bogie,"S355 t8 arm,16x25 Y-slot, clamp/spacers not fully detailed"
+front_GUIDE_TOP_TIE_-884.0,1,cut_purchase,S355 RHS40x40x3,frame,front,bogie,
+front_GUIDE_TOP_TIE_-616.0,1,cut_purchase,S355 RHS40x40x3,frame,front,bogie,
+front_GUIDE_TOP_TIE_616.0,1,cut_purchase,S355 RHS40x40x3,frame,front,bogie,
+front_GUIDE_TOP_TIE_884.0,1,cut_purchase,S355 RHS40x40x3,frame,front,bogie,
+front_YAW_LOWER_PLATE,1,custom,steel,plate,front,bogie,M8 bolt-circle radius65 provisional; bearing retaining shoulders pending
+front_YAW_UPPER_PLATE,1,custom,steel,plate,front,yaw_carrier,M8 bolt-circle radius65 provisional; bearing retaining shoulders pending
+front_YAW_THRUST_BEARING_ENVELOPE,1,purchase_pending,steel,joint,front,yaw_carrier,Paired angular-contact/turntable bearing selection pending; envelope not catalogue item
+front_YAW_KINGPIN_D40,1,custom,steel,shaft,front,yaw_carrier,Kingpin retention and bearing fits pending
+front_YAW_CARRIER,1,custom,steel,plate,front,yaw_carrier,
+front_PITCH_INNER_LUG,1,custom,steel,joint,front,yaw_carrier,
+front_PITCH_PIN_D30,1,custom,steel,shaft,front,roll_carrier,
+front_PITCH_FORK_-1,1,custom,steel,plate,front,roll_carrier,Bushed pitch fork. Axial pin retention and bush fit pending
+front_PITCH_FORK_1,1,custom,steel,plate,front,roll_carrier,Bushed pitch fork. Axial pin retention and bush fit pending
+front_PITCH_FORK_TOP,1,custom,steel,plate,front,roll_carrier,
+front_ROLL_MOVING_LUG,1,custom,steel,joint,front,roll_carrier,
+front_ROLL_PIN_D30,1,custom,steel,shaft,front,chassis,
+front_ROLL_OUTER_LUG_-100,1,custom,steel,plate,front,chassis,Fixed chassis lugs; stops/retention pending
+front_ROLL_OUTER_LUG_100,1,custom,steel,plate,front,chassis,Fixed chassis lugs; stops/retention pending
+front_YAW_STOP_RESERVED_-1,1,custom,steel,joint,front,yaw_carrier,Stop envelope. Contact angles and elastomer selection pending
+front_YAW_STOP_RESERVED_1,1,custom,steel,joint,front,yaw_carrier,Stop envelope. Contact angles and elastomer selection pending
+MOTOR_428_14T,1,purchase,steel,chain,rear,bogie,"428 N=14, nominal teeth visualization only, not cutter profile. Supplier hub/keyway pending"
+JACK_428_42T,1,purchase,steel,chain,rear,bogie,"428 N=42, nominal teeth visualization only, not cutter profile. Supplier hub/keyway pending"
+JACK_428_16T,1,purchase,steel,chain,rear,bogie,"428 N=16, nominal teeth visualization only, not cutter profile. Supplier hub/keyway pending"
+AXLE_428_40T,1,purchase,steel,chain,rear,bogie,"428 N=40, nominal teeth visualization only, not cutter profile. Supplier hub/keyway pending"
+JACKSHAFT_D30,1,custom,steel,shaft,rear,bogie,"C45 stepped/keyed jackshaft, shoulders/keyways not finalized"
+JACK_BEARING_-35,1,purchase,steel,shaft,rear,bogie,"UCP206 d30 envelope, H42.9 provisional; dimensions and rating supplier confirmation required"
+JACK_SHELF_-35,1,custom,steel,plate,rear,bogie,
+JACK_DROP_SUPPORT_-35_-94,1,custom,steel,plate,rear,bogie,Welded hanger and upper connection to bogie crossbeam
+JACK_DROP_SUPPORT_-35_94,1,custom,steel,plate,rear,bogie,Welded hanger and upper connection to bogie crossbeam
+JACK_BEARING_285,1,purchase,steel,shaft,rear,bogie,"UCP206 d30 envelope, H42.9 provisional; dimensions and rating supplier confirmation required"
+JACK_SHELF_285,1,custom,steel,plate,rear,bogie,
+JACK_DROP_SUPPORT_285_-94,1,custom,steel,plate,rear,bogie,Welded hanger and upper connection to bogie crossbeam
+JACK_DROP_SUPPORT_285_94,1,custom,steel,plate,rear,bogie,Welded hanger and upper connection to bogie crossbeam
+CHAIN_STAGE1_70LINK_ENVELOPE,1,purchase,steel,chain,rear,bogie,"Chain swept ENVELOPE only; tangent pitch geometry approximate, no tooth engagement or dynamic tension check"
+CHAIN_STAGE2_70LINK_ENVELOPE,1,purchase,steel,chain,rear,bogie,"Chain swept ENVELOPE only; tangent pitch geometry approximate, no tooth engagement or dynamic tension check"
+QS120_70H_72V_2KW_ENVELOPE,1,purchase,steel,motor,rear,bogie,"Selected direct-output QS12070H; motor casing and foot-adaptor geometry placeholder, not OEM CAD; foot hole pattern provisional"
+MOTOR_OUTPUT_SHAFT_INTERFACE_PENDING,1,custom,steel,shaft,rear,bogie,Shaft interface placeholder; factory spline/key/retainer must be ordered together
+MOTOR_ADJUST_PLATE,1,custom,steel,plate,rear,bogie,Blank base plate with provisional frame holes; OEM motor tabs/slots pending
+MOTOR_SUPPORT_RISER_-1,1,custom,steel,plate,rear,bogie,Welded drop frame; motor foot adaptor and chain tension slots pending
+MOTOR_SUPPORT_RISER_1,1,custom,steel,plate,rear,bogie,Welded drop frame; motor foot adaptor and chain tension slots pending
+CHASSIS_LONG_-500,1,cut_purchase,S355 RHS80x40x3,frame,,chassis,
+CHASSIS_LONG_500,1,cut_purchase,S355 RHS80x40x3,frame,,chassis,
+CHASSIS_CROSS_-500.0,1,cut_purchase,S355 RHS80x40x3,frame,,chassis,
+CHASSIS_CROSS_400.0,1,cut_purchase,S355 RHS80x40x3,frame,,chassis,
+CHASSIS_CROSS_600.0,1,cut_purchase,S355 RHS80x40x3,frame,,chassis,
+CHASSIS_CROSS_-850,1,cut_purchase,S355 RHS80x40x3,frame,,chassis,
+CHASSIS_CROSS_850,1,cut_purchase,S355 RHS80x40x3,frame,,chassis,
+rear_FORK_CHASSIS_RISER_-1,1,custom,steel,plate,rear,chassis,Rear roll fixed through two chassis risers
+rear_FORK_CHASSIS_RISER_1,1,custom,steel,plate,rear,chassis,Rear roll fixed through two chassis risers
+rear_BRAKE_DISC_200_ENVELOPE,1,purchase_pending,steel,chain,rear,bogie,Disk/hub interface needs selection. Not certified braking hardware.
+rear_CALIPER_RESERVED,1,reserved_space,steel,joint,rear,bogie,"Caliper keep-out, excluded from physical interference checks"
+front_BRAKE_DISC_200_ENVELOPE,1,purchase_pending,steel,chain,front,bogie,Disk/hub interface needs selection. Not certified braking hardware.
+front_CALIPER_RESERVED,1,reserved_space,steel,joint,front,bogie,"Caliper keep-out, excluded from physical interference checks"

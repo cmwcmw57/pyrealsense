@@ -1,0 +1,17 @@
+{
+  "wheel_rpm_at20kmh": 353.677651315323,
+  "motor_output_shaft_rpm_required_at20kmh": 2652.5823848649225,
+  "external_reduction": 7.5,
+  "two_chain_efficiency_assumed": 0.9025,
+  "rated_motor_power_W_catalogue": 2000,
+  "theoretical_motor_torque_if_2kW_available_at_required_rpm_Nm": 7.2,
+  "available_continuous_torque_at_rpm": "NOT VERIFIED: OEM curve required",
+  "no_load_rpm_catalogue": 3200,
+  "no_load_geometric_speed_kmh": 24.12743157956961,
+  "rear_axle_screen_torque_limit_Nm": 60,
+  "axle_D40_nominal_shear_at60Nm_MPa": 4.7746482927568605,
+  "curve_dynamics_validated": false,
+  "pitch_roll_pose_track_contact_validated": false,
+  "reverse_power_validated": false,
+  "bogie_yaw_alignment": "No linkage/actuator designed; passive aligning moment not validated"
+}

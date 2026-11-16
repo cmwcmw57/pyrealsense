@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "file": "AxleDrive_Articulation_DEMO.step",
+      "FreeCAD_version": "1.0.0",
+      "valid": true,
+      "solids": 181,
+      "selected_pair_checks": 94,
+      "note": "Reference-envelope pair checks only; no rail or full bolt/tolerance/dynamic analysis"
+    },
+    {
+      "file": "AxleDrive_Curve_R50.step",
+      "FreeCAD_version": "1.0.0",
+      "valid": true,
+      "solids": 181,
+      "selected_pair_checks": 94,
+      "note": "Reference-envelope pair checks only; no rail or full bolt/tolerance/dynamic analysis"
+    },
+    {
+      "file": "AxleDrive_Straight.step",
+      "FreeCAD_version": "1.0.0",
+      "valid": true,
+      "solids": 181,
+      "selected_pair_checks": 94,
+      "note": "Reference-envelope pair checks only; no rail or full bolt/tolerance/dynamic analysis"
+    }
+  ],
+  "overlaps": []
+}

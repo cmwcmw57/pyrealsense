@@ -1,0 +1,12 @@
+[
+  {
+    "file": "Drive_train.step",
+    "valid": true,
+    "solids": 21
+  },
+  {
+    "file": "Joint_mechanisms.step",
+    "valid": true,
+    "solids": 28
+  }
+]

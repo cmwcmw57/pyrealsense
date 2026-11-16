@@ -1,0 +1,24 @@
+id,category,description,qty,status
+M01,purchase,QS12070H non-geared 72V2kW Hall motor,1,OEM output/mount drawing and14T428 interface approval required
+E01,purchase,Matched EM100-4SP controller,1,Exact firmware/Hall angle/CAN command/reverse rating pending
+D01,purchase,42814T motor sprocket,1,Order matched OEM shaft;420/428 not interchangeable
+D02,purchase,42842T sprocket bored/keyed D30,1,Hub/locking design pending
+D03,purchase,42816T sprocket bored/keyed D30,1,Hub/locking design pending
+D04,purchase,42840T axle sprocket bored/keyed D40,1,Taper bush or keyed hub locking pending
+D05,purchase,428 roller chain70links,2,Exact length/tensioner/guard pending
+A01,custom,C45D40 live axle L1800,2,Fits/shoulders/key12x8/retention/fatigue pending
+A02,custom,C45D30 jackshaft L370,1,Key8x7 candidate; fit/retention pending
+W01,custom,RailwheelD300 tread90 flangeD330x8,4,PROVISIONAL cone1:20; certified profile/material pending
+B01,purchase,UCP20840mm pillow block,4,Boundary dimensions verified; load and axial fixation pending
+B02,purchase,UCP20630mm pillow block,2,Check chosen supplier CAD
+G01,custom,Crowned PU guide50x28,16,Load/speed/heat and6002x2 support to finalize
+G02,purchase,6002 sealed15x32x9 guide bearings,32,BOM allowance; not fully modeled
+G03,custom,D15 smooth spindle with threaded ends,16,Threads/end nuts/spacers not fully modeled
+J01,purchase_pending,Yaw bearing/housing assembly D40 interface,2,Envelope only; moment capacity/race clamping must be selected
+J02,custom,"Pitch pin D30, bushes, retained fork assembly",2,Axial retention and stops pending
+J03,custom,"Front roll pin D30, bushes, retained fork",1,Rear roll fixed; stops/damping pending
+F01,cut_purchase,RHS80x40x3 and40x40x3,1,Per model cut lengths; weld detail pending
+P01,custom,S355 plate components,1,Per-part STEP/BOM; no released fabrication tolerances
+BR01,purchase_pending,Mechanical disc brake on each axle,2,CAD200mm keep-out only; stopping/parking ratings unselected
+H01,purchase,M14 bearing mounting bolts/nuts/washers,12,"8main+4jack; exact lengths, grade and torque pending"
+H02,purchase_pending,Joint bolts/bushes/spacers/retaining nuts,1,Complete hardware schedule not designed

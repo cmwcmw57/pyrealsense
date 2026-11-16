@@ -1,0 +1,6 @@
+radius_m,bogie_yaw_deg,each_wheel_slip_ratio_if_equal_radii,slip_speed_each_m_s_at20kmh,rolling_radius_difference_needed_mm,conical_lateral_shift_needed_mm,available_radius_difference_at1mm_guide_gap_mm,ideal_guide_sagitta_mm,status
+15,1.9102131717099304,0.05,0.27777777777777773,14.999999999999998,149.99999999999997,0.1,0.7894955544998083,Yaw removes attack-angle mismatch; equal-rpm slip remains. No pass certification
+25,1.1459919983885924,0.03,0.16666666666666663,9.0,89.99999999999999,0.1,0.4639219633730818,Yaw removes attack-angle mismatch; equal-rpm slip remains. No pass certification
+50,0.5729673448571527,0.015,0.08333333333333331,4.5,44.99999999999999,0.1,0.22842692567337508,Yaw removes attack-angle mismatch; equal-rpm slip remains. No pass certification
+100,0.2864800912409137,0.0075,0.04166666666666666,2.25,22.499999999999996,0.1,0.11335019067360008,Yaw removes attack-angle mismatch; equal-rpm slip remains. No pass certification
+200,0.14323959799088462,0.00375,0.02083333333333333,1.125,11.249999999999998,0.1,0.056461739490032414,Yaw removes attack-angle mismatch; equal-rpm slip remains. No pass certification

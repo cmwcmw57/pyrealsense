@@ -1,0 +1,1 @@
+Source URLs and dimensional status are documented in DESIGN_REVIEW_KO.md. Manufacturer photographs and source PDFs are linked rather than redistributed. Motor body and mounting interfaces are explicitly provisional.
