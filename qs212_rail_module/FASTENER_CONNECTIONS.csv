@@ -1,0 +1,11 @@
+﻿connection,qty,bolt,entry_face,target,note
+A01 to motor posts,12,M8x35+washer,"plate INBOARD face, axis outward Y",M8 HFS8 Tnut at post inner face,plate10+spacer13.75+washer1.6; confirm nut body
+A02 keeper to A01,4,M8x20+washer,"plate OUTBOARD face, axis inward Y",keeper M8 through tap,10mmplate+1.6washer gives8.4mm thread engagement
+G07 to guide post,12,M8x25+washer,"yoke inner wall face, axis outward Y",M8 Tnut,"X=+-220; Z=-40,-24,-8"
+Low gussets to posts/bridges,32,M8x20+washer1.6+shim2,"gusset OUTBOARD face, axis inward Y",profile outer Tslot M8nut,4 per gusset; no bolt into extrusion wall
+G08 top arm to G07,8,M6x25+washer,"top arm TOP face, axis-Z",wall M6 tap,X=station+-20; nominal15.4engagement
+Spindle upper/lower clamp,8,M12 locknut+2.5washer,above/below clamp blocks,reduced shaft threads,bearing preload through inner ring spacers; no outer ring clamp
+Upper column angles,16,M8x16+washer,angle exposed face,profile M8 Tnut,vendor angle exact hole positions TBD
+Top splice straps,8,M8x20+washer,"strap top face, axis-Z",profile M8 Tnut,strap6+washer1.6
+Jack adjustment,4,M8x40+jamnut,"OUTER side of jack lug, axis toward rail",M8 tapped lug against upper clamp,do not use it as sole guide structural retention
+OEM axle nut,2,OEMM16x1.5 assumed,outside both plates,OEM axle end thread,OEM torque only; threadstart/end TBD

@@ -1,0 +1,10 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "script",
+  "author": "QS212 module draft",
+  "description": {
+    "": "Parametric rail module R01. Local Fusion runtime validation required."
+  },
+  "supportedOS": "windows|mac",
+  "editEnabled": true
+}

@@ -1,0 +1,1022 @@
+[
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "F02_Post_motor_-1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 75.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "F02_Post_motor_-1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 142.8374,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "F02_Post_guide_-1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 80.895,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "F02_Post_guide_-1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 81.5,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "F02_Post_motor_1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 75.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "F02_Post_motor_1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 142.8374,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "F02_Post_guide_1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 80.8644,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "F02_Post_guide_1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 81.5,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "F02_Post_motor_-1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 75.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "F02_Post_motor_-1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 142.8374,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "F02_Post_guide_-1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 80.895,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "F02_Post_guide_-1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 81.5,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "F02_Post_motor_1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 75.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "F02_Post_motor_1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 142.8374,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "F02_Post_guide_1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 80.8644,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "F02_Post_guide_1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 81.5,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "A01_Axle_plate_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 52.15,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "A01_Axle_plate_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 172.3991,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "A02_Torque_keeper_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 99.9413,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "A02_Torque_keeper_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 183.02,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "A01_Axle_plate_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 52.15,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "A01_Axle_plate_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 172.3991,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "A02_Torque_keeper_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 99.9413,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "A02_Torque_keeper_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 183.02,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "G01_PU_roller_-1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 90.3337,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "G01_PU_roller_-1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 1.0,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "G02_roller_core_-1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 92.8522,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "G06_Spindle_-1_-1",
+    "b": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 18.0613,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "G07_Lower_yoke_weldment_-1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 108.4386,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "G07_Lower_yoke_weldment_-1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 9.4496,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "G08_Removable_top_arm_-1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 70.8899,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "G08_Removable_top_arm_-1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 14.5444,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "G09_Sliding_clamp_-1_-1_0",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 124.15,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "G09_Sliding_clamp_-1_-1_0",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 12.6168,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "G09_Sliding_clamp_-1_-1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 69.197,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "G09_Sliding_clamp_-1_-1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 18.8588,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "G01_PU_roller_-1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 90.3337,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "G01_PU_roller_-1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 1.0,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "G02_roller_core_-1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 92.8522,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "G06_Spindle_-1_1",
+    "b": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 18.0613,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "G07_Lower_yoke_weldment_-1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 108.4386,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "G07_Lower_yoke_weldment_-1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 9.4496,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "G08_Removable_top_arm_-1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 70.8899,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "G08_Removable_top_arm_-1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 14.5444,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "G09_Sliding_clamp_-1_1_0",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 124.15,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "G09_Sliding_clamp_-1_1_0",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 12.6168,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "G09_Sliding_clamp_-1_1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 69.197,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "G09_Sliding_clamp_-1_1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 18.8588,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "G01_PU_roller_1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 90.3337,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "G01_PU_roller_1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 1.0,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "G02_roller_core_1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 92.8522,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "G06_Spindle_1_-1",
+    "b": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 18.0613,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "G07_Lower_yoke_weldment_1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 108.4386,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "G07_Lower_yoke_weldment_1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 9.4496,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "G08_Removable_top_arm_1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 70.8899,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "G08_Removable_top_arm_1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 14.5444,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "G09_Sliding_clamp_1_-1_0",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 124.15,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "G09_Sliding_clamp_1_-1_0",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 12.6168,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "G09_Sliding_clamp_1_-1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 69.197,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "G09_Sliding_clamp_1_-1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 18.8588,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "G01_PU_roller_1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 90.3337,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "G01_PU_roller_1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 1.0,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "G02_roller_core_1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 92.8522,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "G06_Spindle_1_1",
+    "b": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 18.0613,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "G07_Lower_yoke_weldment_1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 108.4386,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "G07_Lower_yoke_weldment_1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 9.4496,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "G08_Removable_top_arm_1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 70.8899,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "G08_Removable_top_arm_1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 14.5444,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "G09_Sliding_clamp_1_1_0",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 124.15,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "G09_Sliding_clamp_1_1_0",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 12.6168,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "G09_Sliding_clamp_1_1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 69.197,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "G09_Sliding_clamp_1_1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 18.8588,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "F06_Low_bridge_-1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 75.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "F06_Low_bridge_-1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 142.8374,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "F07_Low_gusset_motor_-1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 115.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "F07_Low_gusset_motor_-1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 169.4351,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "F07_Low_gusset_guide_-1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 115.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "F07_Low_gusset_guide_-1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 169.4351,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "F06_Low_bridge_1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 75.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "F06_Low_bridge_1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 142.8374,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "F07_Low_gusset_motor_1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 115.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "F07_Low_gusset_motor_1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 169.4351,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "F07_Low_gusset_guide_1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 115.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "F07_Low_gusset_guide_1_-1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 169.4351,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "F06_Low_bridge_-1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 75.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "F06_Low_bridge_-1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 142.8374,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "F07_Low_gusset_motor_-1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 115.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "F07_Low_gusset_motor_-1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 169.4351,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "F07_Low_gusset_guide_-1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 115.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "F07_Low_gusset_guide_-1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 169.4351,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "F06_Low_bridge_1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 75.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "F06_Low_bridge_1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 142.8374,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "F07_Low_gusset_motor_1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 115.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "F07_Low_gusset_motor_1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 169.4351,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "M01_Rotating_tire_ASSUMED",
+    "b": "F07_Low_gusset_guide_1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 115.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "b": "F07_Low_gusset_guide_1_1",
+    "type": "clearance",
+    "intersection_mm3": 0.0,
+    "distance_mm": 169.4351,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "F01_Long_beam_-1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 88.9125,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "F02_Post_motor_-1_-1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 75.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "F02_Post_guide_-1_-1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 80.8644,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "F02_Post_motor_1_-1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 75.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "F02_Post_guide_1_-1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 80.8644,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "F01_Long_beam_1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 88.9125,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "F02_Post_motor_-1_1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 75.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "F02_Post_guide_-1_1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 80.8644,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "F02_Post_motor_1_1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 75.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "F02_Post_guide_1_1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 80.8644,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "F03_Cross_beam_-1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 134.3474,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "F03_Cross_beam_1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 134.3474,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "A01_Axle_plate_-1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 52.15,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "A02_Torque_keeper_-1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 99.9413,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "A01_Axle_plate_1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 52.15,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "A02_Torque_keeper_1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 99.9413,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "G07_Lower_yoke_weldment_-1_-1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 108.4386,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "G08_Removable_top_arm_-1_-1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 70.8899,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "G07_Lower_yoke_weldment_-1_1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 108.4386,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "G08_Removable_top_arm_-1_1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 70.8899,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "G07_Lower_yoke_weldment_1_-1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 108.4386,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "G08_Removable_top_arm_1_-1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 70.8899,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "G07_Lower_yoke_weldment_1_1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 108.4386,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "G08_Removable_top_arm_1_1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 70.8899,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "F06_Low_bridge_-1_-1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 75.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "F07_Low_gusset_motor_-1_-1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 115.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "F07_Low_gusset_guide_-1_-1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 115.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "F06_Low_bridge_1_-1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 75.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "F07_Low_gusset_motor_1_-1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 115.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "F07_Low_gusset_guide_1_-1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 115.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "F06_Low_bridge_-1_1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 75.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "F07_Low_gusset_motor_-1_1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 115.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "F07_Low_gusset_guide_-1_1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 115.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "F06_Low_bridge_1_1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 75.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "F07_Low_gusset_motor_1_1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 115.9,
+    "pass_no_overlap": true
+  },
+  {
+    "a": "Imported_tire_REFERENCE",
+    "b": "F07_Low_gusset_guide_1_1",
+    "intersection_mm3": 0.0,
+    "distance_mm": 115.9,
+    "pass_no_overlap": true
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "profile_length_m": 5.204,
+  "profile_catalogue_density_kg_m_assumed": 1.73,
+  "profile_mass_kg": 9.0,
+  "custom_parts_volume_mass_kg": 14.8,
+  "motor_mass_kg_from_user_spec": 13.21,
+  "tire_mass_kg_assumed": 2.5,
+  "bearings_fasteners_allowance_kg": 2.5,
+  "module_estimate_kg": 42.01,
+  "four_modules_estimate_kg": 168.04,
+  "remaining_of_200kg_before_chassis_battery_people": 31.96
+}

@@ -1,0 +1,6362 @@
+[
+  {
+    "name": "R00_Rail_KRS60K_ENVELOPE_SITE_UNCONFIRMED",
+    "category": "reference",
+    "group": "rail",
+    "material": "KRS TR0001-15(R) appendix3 60K nominal envelope; transition radii approximate",
+    "bbox": [
+      -450.0,
+      -72.5,
+      -174.0,
+      450.0,
+      72.5,
+      0.0
+    ],
+    "volume_mm3": 7258735.0684312545
+  },
+  {
+    "name": "M01_Rotating_tire_ASSUMED",
+    "category": "purchase",
+    "group": "rubber",
+    "material": "rubber3.00-10 ASSUMED",
+    "bbox": [
+      -203.2,
+      -38.1,
+      0.0,
+      203.2,
+      38.1,
+      406.4
+    ],
+    "volume_mm3": 1997051.6392725564
+  },
+  {
+    "name": "M02_Rotating_motor_envelope",
+    "category": "purchase",
+    "group": "motor",
+    "material": "QS212 1200W input reference",
+    "bbox": [
+      -139.5,
+      -39.0,
+      63.69999999999999,
+      139.5,
+      39.0,
+      342.7
+    ],
+    "volume_mm3": 4685381.49373994
+  },
+  {
+    "name": "M03_Fixed_axle_INPUT_REFERENCE",
+    "category": "reference",
+    "group": "steel",
+    "material": "OEM axle unknown steel",
+    "bbox": [
+      -8.0,
+      -135.0,
+      195.2,
+      8.0,
+      135.0,
+      211.2
+    ],
+    "volume_mm3": 50167.02383388318
+  },
+  {
+    "name": "F01_Long_beam_-1",
+    "category": "purchase",
+    "group": "frame",
+    "material": "HFS8-4040 family; 10mm slot, section envelope",
+    "bbox": [
+      -290.0,
+      -154.0,
+      430.0,
+      290.00000000000006,
+      -114.0,
+      470.0
+    ],
+    "volume_mm3": 643384.2495762111
+  },
+  {
+    "name": "F02_Post_motor_-1_-1",
+    "category": "purchase",
+    "group": "frame",
+    "material": "HFS8-4040 family; 10mm slot, section envelope",
+    "bbox": [
+      -105.0,
+      -154.0,
+      110.0,
+      -65.0,
+      -114.0,
+      430.00000000000006
+    ],
+    "volume_mm3": 354970.62045584054
+  },
+  {
+    "name": "F02_Post_guide_-1_-1",
+    "category": "purchase",
+    "group": "frame",
+    "material": "HFS8-4040 family; 10mm slot, section envelope",
+    "bbox": [
+      -240.0,
+      -154.0,
+      -52.0,
+      -200.0,
+      -114.0,
+      430.00000000000006
+    ],
+    "volume_mm3": 534674.4970616103
+  },
+  {
+    "name": "F02_Post_motor_1_-1",
+    "category": "purchase",
+    "group": "frame",
+    "material": "HFS8-4040 family; 10mm slot, section envelope",
+    "bbox": [
+      65.0,
+      -154.0,
+      110.0,
+      105.0,
+      -114.0,
+      430.00000000000006
+    ],
+    "volume_mm3": 354970.62045584054
+  },
+  {
+    "name": "F02_Post_guide_1_-1",
+    "category": "purchase",
+    "group": "frame",
+    "material": "HFS8-4040 family; 10mm slot, section envelope",
+    "bbox": [
+      200.0,
+      -154.0,
+      -52.0,
+      240.0,
+      -114.0,
+      430.00000000000006
+    ],
+    "volume_mm3": 534674.4970616103
+  },
+  {
+    "name": "F01_Long_beam_1",
+    "category": "purchase",
+    "group": "frame",
+    "material": "HFS8-4040 family; 10mm slot, section envelope",
+    "bbox": [
+      -290.0,
+      114.0,
+      430.0,
+      290.00000000000006,
+      154.0,
+      470.0
+    ],
+    "volume_mm3": 643384.2495762111
+  },
+  {
+    "name": "F02_Post_motor_-1_1",
+    "category": "purchase",
+    "group": "frame",
+    "material": "HFS8-4040 family; 10mm slot, section envelope",
+    "bbox": [
+      -105.0,
+      114.0,
+      110.0,
+      -65.0,
+      154.0,
+      430.00000000000006
+    ],
+    "volume_mm3": 354970.6204558406
+  },
+  {
+    "name": "F02_Post_guide_-1_1",
+    "category": "purchase",
+    "group": "frame",
+    "material": "HFS8-4040 family; 10mm slot, section envelope",
+    "bbox": [
+      -240.0,
+      114.0,
+      -52.0,
+      -200.0,
+      154.0,
+      430.00000000000006
+    ],
+    "volume_mm3": 534674.4970616102
+  },
+  {
+    "name": "F02_Post_motor_1_1",
+    "category": "purchase",
+    "group": "frame",
+    "material": "HFS8-4040 family; 10mm slot, section envelope",
+    "bbox": [
+      65.0,
+      114.0,
+      110.0,
+      105.0,
+      154.0,
+      430.00000000000006
+    ],
+    "volume_mm3": 354970.6204558406
+  },
+  {
+    "name": "F02_Post_guide_1_1",
+    "category": "purchase",
+    "group": "frame",
+    "material": "HFS8-4040 family; 10mm slot, section envelope",
+    "bbox": [
+      200.0,
+      114.0,
+      -52.0,
+      240.0,
+      154.0,
+      430.00000000000006
+    ],
+    "volume_mm3": 534674.4970616102
+  },
+  {
+    "name": "F03_Cross_beam_-1",
+    "category": "purchase",
+    "group": "frame",
+    "material": "HFS8-4040 family; 10mm slot, section envelope",
+    "bbox": [
+      -290.0,
+      -114.00000000000003,
+      430.0,
+      -250.0,
+      114.0,
+      470.0
+    ],
+    "volume_mm3": 252916.5670747866
+  },
+  {
+    "name": "F03_Cross_beam_1",
+    "category": "purchase",
+    "group": "frame",
+    "material": "HFS8-4040 family; 10mm slot, section envelope",
+    "bbox": [
+      250.0,
+      -114.00000000000003,
+      430.0,
+      290.0,
+      114.0,
+      470.0
+    ],
+    "volume_mm3": 252916.5670747866
+  },
+  {
+    "name": "A01_Axle_plate_-1",
+    "category": "custom",
+    "group": "fabricated",
+    "material": "S355 steel",
+    "bbox": [
+      -110.0,
+      -100.25,
+      158.2,
+      110.0,
+      -90.25,
+      328.2
+    ],
+    "volume_mm3": 360632.4199011845
+  },
+  {
+    "name": "A02_Torque_keeper_-1",
+    "category": "custom",
+    "group": "fabricated",
+    "material": "S355 steel",
+    "bbox": [
+      -30.0,
+      -90.25,
+      173.2,
+      30.0,
+      -80.25,
+      197.1
+    ],
+    "volume_mm3": 13613.663778490041
+  },
+  {
+    "name": "A03_M16_washer_-1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "OEM M16 hardened washer",
+    "bbox": [
+      -16.0,
+      -103.25,
+      187.2,
+      16.0,
+      -100.25,
+      219.2
+    ],
+    "volume_mm3": 1779.0210878748285
+  },
+  {
+    "name": "A04_M16_axle_nut_-1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "OEM M16x1.5 nut; confirm thread",
+    "bbox": [
+      -13.856,
+      -116.25000000000001,
+      191.2003520051628,
+      13.856000000000002,
+      -103.25,
+      215.19964799483716
+    ],
+    "volume_mm3": 3870.6126942553856
+  },
+  {
+    "name": "A01_Axle_plate_1",
+    "category": "custom",
+    "group": "fabricated",
+    "material": "S355 steel",
+    "bbox": [
+      -110.0,
+      90.25,
+      158.2,
+      110.0,
+      100.25,
+      328.2
+    ],
+    "volume_mm3": 360632.4199011845
+  },
+  {
+    "name": "A02_Torque_keeper_1",
+    "category": "custom",
+    "group": "fabricated",
+    "material": "S355 steel",
+    "bbox": [
+      -30.0,
+      80.25,
+      173.2,
+      30.0,
+      90.25,
+      197.1
+    ],
+    "volume_mm3": 13613.663778490041
+  },
+  {
+    "name": "A03_M16_washer_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "OEM M16 hardened washer",
+    "bbox": [
+      -16.0,
+      100.25,
+      187.2,
+      16.0,
+      103.25,
+      219.2
+    ],
+    "volume_mm3": 1779.0210878748285
+  },
+  {
+    "name": "A04_M16_axle_nut_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "OEM M16x1.5 nut; confirm thread",
+    "bbox": [
+      -13.856,
+      103.24999999999997,
+      191.2003520051628,
+      13.856000000000002,
+      116.25,
+      215.19964799483716
+    ],
+    "volume_mm3": 3870.6126942553847
+  },
+  {
+    "name": "A05_Spacer_-1_-1_0",
+    "category": "custom",
+    "group": "steel",
+    "material": "S355 spacer tube OD20 ID9",
+    "bbox": [
+      -95.0,
+      -114.0,
+      173.2,
+      -75.0,
+      -100.25,
+      193.2
+    ],
+    "volume_mm3": 3444.9526942020575
+  },
+  {
+    "name": "B01_Plate_M8x35_-1_-1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -91.5,
+      -123.65,
+      176.7,
+      -78.5,
+      -80.65,
+      189.7
+    ],
+    "volume_mm3": 2821.150202923634
+  },
+  {
+    "name": "B02_Plate_Tnut_M8_-1_-1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 T nut envelope",
+    "bbox": [
+      -93.5,
+      -125.0,
+      178.2,
+      -76.5,
+      -119.0,
+      188.2
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "A05_Spacer_-1_-1_1",
+    "category": "custom",
+    "group": "steel",
+    "material": "S355 spacer tube OD20 ID9",
+    "bbox": [
+      -95.0,
+      -114.0,
+      233.2,
+      -75.0,
+      -100.25,
+      253.2
+    ],
+    "volume_mm3": 3444.9526942020575
+  },
+  {
+    "name": "B01_Plate_M8x35_-1_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -91.5,
+      -123.65,
+      236.7,
+      -78.5,
+      -80.65,
+      249.7
+    ],
+    "volume_mm3": 2821.150202923634
+  },
+  {
+    "name": "B02_Plate_Tnut_M8_-1_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 T nut envelope",
+    "bbox": [
+      -93.5,
+      -125.0,
+      238.2,
+      -76.5,
+      -119.0,
+      248.2
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "A05_Spacer_-1_-1_2",
+    "category": "custom",
+    "group": "steel",
+    "material": "S355 spacer tube OD20 ID9",
+    "bbox": [
+      -95.0,
+      -114.0,
+      293.2,
+      -75.0,
+      -100.25,
+      313.2
+    ],
+    "volume_mm3": 3444.952694202057
+  },
+  {
+    "name": "B01_Plate_M8x35_-1_-1_2",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -91.5,
+      -123.65,
+      296.7,
+      -78.5,
+      -80.65,
+      309.7
+    ],
+    "volume_mm3": 2821.150202923634
+  },
+  {
+    "name": "B02_Plate_Tnut_M8_-1_-1_2",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 T nut envelope",
+    "bbox": [
+      -93.5,
+      -125.0,
+      298.2,
+      -76.5,
+      -119.0,
+      308.2
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "A05_Spacer_-1_1_0",
+    "category": "custom",
+    "group": "steel",
+    "material": "S355 spacer tube OD20 ID9",
+    "bbox": [
+      75.0,
+      -114.0,
+      173.2,
+      95.0,
+      -100.25,
+      193.2
+    ],
+    "volume_mm3": 3444.9526942020575
+  },
+  {
+    "name": "B01_Plate_M8x35_-1_1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      78.5,
+      -123.65,
+      176.7,
+      91.5,
+      -80.65,
+      189.7
+    ],
+    "volume_mm3": 2821.150202923634
+  },
+  {
+    "name": "B02_Plate_Tnut_M8_-1_1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 T nut envelope",
+    "bbox": [
+      76.5,
+      -125.0,
+      178.2,
+      93.5,
+      -119.0,
+      188.2
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "A05_Spacer_-1_1_1",
+    "category": "custom",
+    "group": "steel",
+    "material": "S355 spacer tube OD20 ID9",
+    "bbox": [
+      75.0,
+      -114.0,
+      233.2,
+      95.0,
+      -100.25,
+      253.2
+    ],
+    "volume_mm3": 3444.9526942020575
+  },
+  {
+    "name": "B01_Plate_M8x35_-1_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      78.5,
+      -123.65,
+      236.7,
+      91.5,
+      -80.65,
+      249.7
+    ],
+    "volume_mm3": 2821.150202923634
+  },
+  {
+    "name": "B02_Plate_Tnut_M8_-1_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 T nut envelope",
+    "bbox": [
+      76.5,
+      -125.0,
+      238.2,
+      93.5,
+      -119.0,
+      248.2
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "A05_Spacer_-1_1_2",
+    "category": "custom",
+    "group": "steel",
+    "material": "S355 spacer tube OD20 ID9",
+    "bbox": [
+      75.0,
+      -114.0,
+      293.2,
+      95.0,
+      -100.25,
+      313.2
+    ],
+    "volume_mm3": 3444.952694202057
+  },
+  {
+    "name": "B01_Plate_M8x35_-1_1_2",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      78.5,
+      -123.65,
+      296.7,
+      91.5,
+      -80.65,
+      309.7
+    ],
+    "volume_mm3": 2821.150202923634
+  },
+  {
+    "name": "B02_Plate_Tnut_M8_-1_1_2",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 T nut envelope",
+    "bbox": [
+      76.5,
+      -125.0,
+      298.2,
+      93.5,
+      -119.0,
+      308.2
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "B03_Keeper_M8x20_-1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -26.5,
+      -109.85,
+      178.7,
+      -13.5,
+      -81.85,
+      191.7
+    ],
+    "volume_mm3": 2067.167966062084
+  },
+  {
+    "name": "B03_Keeper_M8x20_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      13.5,
+      -109.85,
+      178.7,
+      26.5,
+      -81.85,
+      191.7
+    ],
+    "volume_mm3": 2067.167966062084
+  },
+  {
+    "name": "A05_Spacer_1_-1_0",
+    "category": "custom",
+    "group": "steel",
+    "material": "S355 spacer tube OD20 ID9",
+    "bbox": [
+      -95.0,
+      100.25,
+      173.2,
+      -75.0,
+      114.0,
+      193.2
+    ],
+    "volume_mm3": 3444.952694202057
+  },
+  {
+    "name": "B01_Plate_M8x35_1_-1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -91.5,
+      80.65,
+      176.7,
+      -78.5,
+      123.65,
+      189.7
+    ],
+    "volume_mm3": 2821.150202923634
+  },
+  {
+    "name": "B02_Plate_Tnut_M8_1_-1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 T nut envelope",
+    "bbox": [
+      -93.5,
+      119.0,
+      178.2,
+      -76.5,
+      125.0,
+      188.2
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "A05_Spacer_1_-1_1",
+    "category": "custom",
+    "group": "steel",
+    "material": "S355 spacer tube OD20 ID9",
+    "bbox": [
+      -95.0,
+      100.25,
+      233.2,
+      -75.0,
+      114.0,
+      253.2
+    ],
+    "volume_mm3": 3444.952694202057
+  },
+  {
+    "name": "B01_Plate_M8x35_1_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -91.5,
+      80.65,
+      236.7,
+      -78.5,
+      123.65,
+      249.7
+    ],
+    "volume_mm3": 2821.150202923634
+  },
+  {
+    "name": "B02_Plate_Tnut_M8_1_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 T nut envelope",
+    "bbox": [
+      -93.5,
+      119.0,
+      238.2,
+      -76.5,
+      125.0,
+      248.2
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "A05_Spacer_1_-1_2",
+    "category": "custom",
+    "group": "steel",
+    "material": "S355 spacer tube OD20 ID9",
+    "bbox": [
+      -95.0,
+      100.25,
+      293.2,
+      -75.0,
+      114.0,
+      313.2
+    ],
+    "volume_mm3": 3444.952694202057
+  },
+  {
+    "name": "B01_Plate_M8x35_1_-1_2",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -91.5,
+      80.65,
+      296.7,
+      -78.5,
+      123.65,
+      309.7
+    ],
+    "volume_mm3": 2821.150202923634
+  },
+  {
+    "name": "B02_Plate_Tnut_M8_1_-1_2",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 T nut envelope",
+    "bbox": [
+      -93.5,
+      119.0,
+      298.2,
+      -76.5,
+      125.0,
+      308.2
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "A05_Spacer_1_1_0",
+    "category": "custom",
+    "group": "steel",
+    "material": "S355 spacer tube OD20 ID9",
+    "bbox": [
+      75.0,
+      100.25,
+      173.2,
+      95.0,
+      114.0,
+      193.2
+    ],
+    "volume_mm3": 3444.952694202057
+  },
+  {
+    "name": "B01_Plate_M8x35_1_1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      78.5,
+      80.65,
+      176.7,
+      91.5,
+      123.65,
+      189.7
+    ],
+    "volume_mm3": 2821.150202923634
+  },
+  {
+    "name": "B02_Plate_Tnut_M8_1_1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 T nut envelope",
+    "bbox": [
+      76.5,
+      119.0,
+      178.2,
+      93.5,
+      125.0,
+      188.2
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "A05_Spacer_1_1_1",
+    "category": "custom",
+    "group": "steel",
+    "material": "S355 spacer tube OD20 ID9",
+    "bbox": [
+      75.0,
+      100.25,
+      233.2,
+      95.0,
+      114.0,
+      253.2
+    ],
+    "volume_mm3": 3444.952694202057
+  },
+  {
+    "name": "B01_Plate_M8x35_1_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      78.5,
+      80.65,
+      236.7,
+      91.5,
+      123.65,
+      249.7
+    ],
+    "volume_mm3": 2821.150202923634
+  },
+  {
+    "name": "B02_Plate_Tnut_M8_1_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 T nut envelope",
+    "bbox": [
+      76.5,
+      119.0,
+      238.2,
+      93.5,
+      125.0,
+      248.2
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "A05_Spacer_1_1_2",
+    "category": "custom",
+    "group": "steel",
+    "material": "S355 spacer tube OD20 ID9",
+    "bbox": [
+      75.0,
+      100.25,
+      293.2,
+      95.0,
+      114.0,
+      313.2
+    ],
+    "volume_mm3": 3444.952694202057
+  },
+  {
+    "name": "B01_Plate_M8x35_1_1_2",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      78.5,
+      80.65,
+      296.7,
+      91.5,
+      123.65,
+      309.7
+    ],
+    "volume_mm3": 2821.150202923634
+  },
+  {
+    "name": "B02_Plate_Tnut_M8_1_1_2",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 T nut envelope",
+    "bbox": [
+      76.5,
+      119.0,
+      298.2,
+      93.5,
+      125.0,
+      308.2
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "B03_Keeper_M8x20_1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -26.5,
+      81.85,
+      178.7,
+      -13.5,
+      109.85,
+      191.7
+    ],
+    "volume_mm3": 2067.167966062084
+  },
+  {
+    "name": "B03_Keeper_M8x20_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      13.5,
+      81.85,
+      178.7,
+      26.5,
+      109.85,
+      191.7
+    ],
+    "volume_mm3": 2067.167966062084
+  },
+  {
+    "name": "G01_PU_roller_-1_-1",
+    "category": "custom",
+    "group": "roller",
+    "material": "bonded polyurethane ShoreA90; qualified roller supplier",
+    "bbox": [
+      -245.0,
+      -83.06125,
+      -34.0,
+      -195.0,
+      -33.06125,
+      -6.0
+    ],
+    "volume_mm3": 15451.156731950929
+  },
+  {
+    "name": "G02_roller_core_-1_-1",
+    "category": "custom",
+    "group": "steel",
+    "material": "S355 steel",
+    "bbox": [
+      -241.0,
+      -79.06125,
+      -34.0,
+      -199.0,
+      -37.06125,
+      -6.0
+    ],
+    "volume_mm3": 19792.033717615694
+  },
+  {
+    "name": "G03_6002DDU_-1_-1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "NSK6002DDU 15x32x9",
+    "bbox": [
+      -236.0,
+      -74.06125,
+      -34.0,
+      -204.0,
+      -42.06125,
+      -25.0
+    ],
+    "volume_mm3": 5647.798192991048
+  },
+  {
+    "name": "G03_6002DDU_-1_-1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "NSK6002DDU 15x32x9",
+    "bbox": [
+      -236.0,
+      -74.06125,
+      -15.0,
+      -204.0,
+      -42.06125,
+      -6.0
+    ],
+    "volume_mm3": 5647.7981929910475
+  },
+  {
+    "name": "G04_Inner_spacer_-1_-1",
+    "category": "custom",
+    "group": "steel",
+    "material": "C45 ground spacer",
+    "bbox": [
+      -230.5,
+      -68.56125,
+      -25.0,
+      -209.5,
+      -47.56125,
+      -15.0
+    ],
+    "volume_mm3": 1649.0219838692847
+  },
+  {
+    "name": "G05_End_spacer_-1_-1_0",
+    "category": "custom",
+    "group": "steel",
+    "material": "C45 ground spacer",
+    "bbox": [
+      -230.5,
+      -68.56125,
+      -44.0,
+      -209.5,
+      -47.56125,
+      -34.0
+    ],
+    "volume_mm3": 1649.0219838692838
+  },
+  {
+    "name": "G05_End_spacer_-1_-1_1",
+    "category": "custom",
+    "group": "steel",
+    "material": "C45 ground spacer",
+    "bbox": [
+      -230.5,
+      -68.56125,
+      -6.0,
+      -209.5,
+      -47.56125,
+      4.0
+    ],
+    "volume_mm3": 1649.0219838692847
+  },
+  {
+    "name": "G06_Spindle_-1_-1",
+    "category": "custom",
+    "group": "steel",
+    "material": "C45 normalized; D15 bearing seat; M12x1.75 ends",
+    "bbox": [
+      -227.5,
+      -65.56125,
+      -82.0,
+      -212.5,
+      -50.56125,
+      42.0
+    ],
+    "volume_mm3": 17077.697664914114
+  },
+  {
+    "name": "G07_Lower_yoke_weldment_-1_-1",
+    "category": "custom",
+    "group": "fabricated",
+    "material": "S355 steel",
+    "bbox": [
+      -250.0,
+      -114.0,
+      -52.0,
+      -190.0,
+      -41.06125,
+      4.0
+    ],
+    "volume_mm3": 64419.35151993712
+  },
+  {
+    "name": "G08_Removable_top_arm_-1_-1",
+    "category": "custom",
+    "group": "fabricated",
+    "material": "S355 steel",
+    "bbox": [
+      -250.0,
+      -114.0,
+      4.0,
+      -190.0,
+      -41.06125,
+      36.0
+    ],
+    "volume_mm3": 36325.5488462192
+  },
+  {
+    "name": "G09_Sliding_clamp_-1_-1_0",
+    "category": "custom",
+    "group": "steel",
+    "material": "S355 clamp40x40x12",
+    "bbox": [
+      -240.0,
+      -78.06125,
+      -64.0,
+      -200.0,
+      -38.06125,
+      -52.0
+    ],
+    "volume_mm3": 17607.212524629977
+  },
+  {
+    "name": "G09_Sliding_clamp_-1_-1_1",
+    "category": "custom",
+    "group": "steel",
+    "material": "S355 clamp40x40x12",
+    "bbox": [
+      -240.0,
+      -78.06125,
+      12.0,
+      -200.0,
+      -38.06125,
+      24.0
+    ],
+    "volume_mm3": 17607.212524629977
+  },
+  {
+    "name": "G10_M12_nut_-1_-1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "M12 locknut, prevailing torque",
+    "bbox": [
+      -230.392,
+      -67.06098599612788,
+      -76.5,
+      -209.608,
+      -49.06151400387211,
+      -66.49999999999999
+    ],
+    "volume_mm3": 1674.7843388605029
+  },
+  {
+    "name": "G10_M12_nut_-1_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "M12 locknut, prevailing torque",
+    "bbox": [
+      -230.392,
+      -67.06098599612788,
+      26.5,
+      -209.608,
+      -49.06151400387211,
+      36.5
+    ],
+    "volume_mm3": 1674.7843388605029
+  },
+  {
+    "name": "B04_Yoke_M8x25_-1_-1_0_-40",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -226.5,
+      -125.4,
+      -46.5,
+      -213.5,
+      -92.4,
+      -33.5
+    ],
+    "volume_mm3": 2318.4953783492674
+  },
+  {
+    "name": "B04_Yoke_M8x25_-1_-1_0_-24",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -226.5,
+      -125.4,
+      -30.5,
+      -213.5,
+      -92.4,
+      -17.5
+    ],
+    "volume_mm3": 2318.4953783492665
+  },
+  {
+    "name": "B04_Yoke_M8x25_-1_-1_0_-8",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -226.5,
+      -125.4,
+      -14.5,
+      -213.5,
+      -92.4,
+      -1.5
+    ],
+    "volume_mm3": 2318.495378349268
+  },
+  {
+    "name": "B05_Top_M6x25_-1_-1_-20",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M6, class8.8; unthreaded envelope",
+    "bbox": [
+      -245.0,
+      -113.0,
+      -11.4,
+      -235.0,
+      -103.0,
+      19.6
+    ],
+    "volume_mm3": 1178.0972450961724
+  },
+  {
+    "name": "B05_Top_M6x25_-1_-1_20",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M6, class8.8; unthreaded envelope",
+    "bbox": [
+      -205.0,
+      -113.0,
+      -11.4,
+      -195.0,
+      -103.0,
+      19.6
+    ],
+    "volume_mm3": 1178.0972450961724
+  },
+  {
+    "name": "B06_Jack_M8x40_-1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -226.5,
+      -126.0,
+      11.5,
+      -213.5,
+      -78.0,
+      24.5
+    ],
+    "volume_mm3": 3072.477615210817
+  },
+  {
+    "name": "G01_PU_roller_-1_1",
+    "category": "custom",
+    "group": "roller",
+    "material": "bonded polyurethane ShoreA90; qualified roller supplier",
+    "bbox": [
+      -245.0,
+      33.06125,
+      -34.0,
+      -195.0,
+      83.06125,
+      -6.0
+    ],
+    "volume_mm3": 15451.156731950929
+  },
+  {
+    "name": "G02_roller_core_-1_1",
+    "category": "custom",
+    "group": "steel",
+    "material": "S355 steel",
+    "bbox": [
+      -241.0,
+      37.06125,
+      -34.0,
+      -199.0,
+      79.06125,
+      -6.0
+    ],
+    "volume_mm3": 19792.0337176157
+  },
+  {
+    "name": "G03_6002DDU_-1_1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "NSK6002DDU 15x32x9",
+    "bbox": [
+      -236.0,
+      42.06125,
+      -34.0,
+      -204.0,
+      74.06125,
+      -25.0
+    ],
+    "volume_mm3": 5647.7981929910475
+  },
+  {
+    "name": "G03_6002DDU_-1_1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "NSK6002DDU 15x32x9",
+    "bbox": [
+      -236.0,
+      42.06125,
+      -15.0,
+      -204.0,
+      74.06125,
+      -6.0
+    ],
+    "volume_mm3": 5647.798192991048
+  },
+  {
+    "name": "G04_Inner_spacer_-1_1",
+    "category": "custom",
+    "group": "steel",
+    "material": "C45 ground spacer",
+    "bbox": [
+      -230.5,
+      47.56125,
+      -25.0,
+      -209.5,
+      68.56125,
+      -15.0
+    ],
+    "volume_mm3": 1649.0219838692851
+  },
+  {
+    "name": "G05_End_spacer_-1_1_0",
+    "category": "custom",
+    "group": "steel",
+    "material": "C45 ground spacer",
+    "bbox": [
+      -230.5,
+      47.56125,
+      -44.0,
+      -209.5,
+      68.56125,
+      -34.0
+    ],
+    "volume_mm3": 1649.0219838692842
+  },
+  {
+    "name": "G05_End_spacer_-1_1_1",
+    "category": "custom",
+    "group": "steel",
+    "material": "C45 ground spacer",
+    "bbox": [
+      -230.5,
+      47.56125,
+      -6.0,
+      -209.5,
+      68.56125,
+      4.0
+    ],
+    "volume_mm3": 1649.0219838692851
+  },
+  {
+    "name": "G06_Spindle_-1_1",
+    "category": "custom",
+    "group": "steel",
+    "material": "C45 normalized; D15 bearing seat; M12x1.75 ends",
+    "bbox": [
+      -227.5,
+      50.56125,
+      -82.0,
+      -212.5,
+      65.56125,
+      42.0
+    ],
+    "volume_mm3": 17077.697664914114
+  },
+  {
+    "name": "G07_Lower_yoke_weldment_-1_1",
+    "category": "custom",
+    "group": "fabricated",
+    "material": "S355 steel",
+    "bbox": [
+      -250.0,
+      41.06125,
+      -52.0,
+      -190.0,
+      114.0,
+      4.0
+    ],
+    "volume_mm3": 64419.35151993709
+  },
+  {
+    "name": "G08_Removable_top_arm_-1_1",
+    "category": "custom",
+    "group": "fabricated",
+    "material": "S355 steel",
+    "bbox": [
+      -250.0,
+      41.06125,
+      4.0,
+      -190.0,
+      114.0,
+      36.0
+    ],
+    "volume_mm3": 36325.5488462192
+  },
+  {
+    "name": "G09_Sliding_clamp_-1_1_0",
+    "category": "custom",
+    "group": "steel",
+    "material": "S355 clamp40x40x12",
+    "bbox": [
+      -240.0,
+      38.06125,
+      -64.0,
+      -200.0,
+      78.06125,
+      -52.0
+    ],
+    "volume_mm3": 17607.212524629977
+  },
+  {
+    "name": "G09_Sliding_clamp_-1_1_1",
+    "category": "custom",
+    "group": "steel",
+    "material": "S355 clamp40x40x12",
+    "bbox": [
+      -240.0,
+      38.06125,
+      12.0,
+      -200.0,
+      78.06125,
+      24.0
+    ],
+    "volume_mm3": 17607.212524629977
+  },
+  {
+    "name": "G10_M12_nut_-1_1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "M12 locknut, prevailing torque",
+    "bbox": [
+      -230.392,
+      49.06151400387212,
+      -76.5,
+      -209.608,
+      67.06098599612788,
+      -66.49999999999999
+    ],
+    "volume_mm3": 1674.7843388605024
+  },
+  {
+    "name": "G10_M12_nut_-1_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "M12 locknut, prevailing torque",
+    "bbox": [
+      -230.392,
+      49.06151400387212,
+      26.5,
+      -209.608,
+      67.06098599612788,
+      36.5
+    ],
+    "volume_mm3": 1674.7843388605029
+  },
+  {
+    "name": "B04_Yoke_M8x25_-1_1_0_-40",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -226.5,
+      92.4,
+      -46.5,
+      -213.5,
+      125.4,
+      -33.5
+    ],
+    "volume_mm3": 2318.4953783492674
+  },
+  {
+    "name": "B04_Yoke_M8x25_-1_1_0_-24",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -226.5,
+      92.4,
+      -30.5,
+      -213.5,
+      125.4,
+      -17.5
+    ],
+    "volume_mm3": 2318.4953783492665
+  },
+  {
+    "name": "B04_Yoke_M8x25_-1_1_0_-8",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -226.5,
+      92.4,
+      -14.5,
+      -213.5,
+      125.4,
+      -1.5
+    ],
+    "volume_mm3": 2318.495378349268
+  },
+  {
+    "name": "B05_Top_M6x25_-1_1_-20",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M6, class8.8; unthreaded envelope",
+    "bbox": [
+      -245.0,
+      103.0,
+      -11.4,
+      -235.0,
+      113.0,
+      19.6
+    ],
+    "volume_mm3": 1178.0972450961724
+  },
+  {
+    "name": "B05_Top_M6x25_-1_1_20",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M6, class8.8; unthreaded envelope",
+    "bbox": [
+      -205.0,
+      103.0,
+      -11.4,
+      -195.0,
+      113.0,
+      19.6
+    ],
+    "volume_mm3": 1178.0972450961724
+  },
+  {
+    "name": "B06_Jack_M8x40_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -226.5,
+      78.0,
+      11.5,
+      -213.5,
+      126.0,
+      24.5
+    ],
+    "volume_mm3": 3072.477615210817
+  },
+  {
+    "name": "G01_PU_roller_1_-1",
+    "category": "custom",
+    "group": "roller",
+    "material": "bonded polyurethane ShoreA90; qualified roller supplier",
+    "bbox": [
+      195.0,
+      -83.06125,
+      -34.0,
+      245.0,
+      -33.06125,
+      -6.0
+    ],
+    "volume_mm3": 15451.156731950929
+  },
+  {
+    "name": "G02_roller_core_1_-1",
+    "category": "custom",
+    "group": "steel",
+    "material": "S355 steel",
+    "bbox": [
+      199.0,
+      -79.06125,
+      -34.0,
+      241.0,
+      -37.06125,
+      -6.0
+    ],
+    "volume_mm3": 19792.033717615694
+  },
+  {
+    "name": "G03_6002DDU_1_-1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "NSK6002DDU 15x32x9",
+    "bbox": [
+      204.0,
+      -74.06125,
+      -34.0,
+      236.0,
+      -42.06125,
+      -25.0
+    ],
+    "volume_mm3": 5647.798192991048
+  },
+  {
+    "name": "G03_6002DDU_1_-1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "NSK6002DDU 15x32x9",
+    "bbox": [
+      204.0,
+      -74.06125,
+      -15.0,
+      236.0,
+      -42.06125,
+      -6.0
+    ],
+    "volume_mm3": 5647.7981929910475
+  },
+  {
+    "name": "G04_Inner_spacer_1_-1",
+    "category": "custom",
+    "group": "steel",
+    "material": "C45 ground spacer",
+    "bbox": [
+      209.5,
+      -68.56125,
+      -25.0,
+      230.5,
+      -47.56125,
+      -15.0
+    ],
+    "volume_mm3": 1649.0219838692847
+  },
+  {
+    "name": "G05_End_spacer_1_-1_0",
+    "category": "custom",
+    "group": "steel",
+    "material": "C45 ground spacer",
+    "bbox": [
+      209.5,
+      -68.56125,
+      -44.0,
+      230.5,
+      -47.56125,
+      -34.0
+    ],
+    "volume_mm3": 1649.0219838692838
+  },
+  {
+    "name": "G05_End_spacer_1_-1_1",
+    "category": "custom",
+    "group": "steel",
+    "material": "C45 ground spacer",
+    "bbox": [
+      209.5,
+      -68.56125,
+      -6.0,
+      230.5,
+      -47.56125,
+      4.0
+    ],
+    "volume_mm3": 1649.0219838692847
+  },
+  {
+    "name": "G06_Spindle_1_-1",
+    "category": "custom",
+    "group": "steel",
+    "material": "C45 normalized; D15 bearing seat; M12x1.75 ends",
+    "bbox": [
+      212.5,
+      -65.56125,
+      -82.0,
+      227.5,
+      -50.56125,
+      42.0
+    ],
+    "volume_mm3": 17077.697664914114
+  },
+  {
+    "name": "G07_Lower_yoke_weldment_1_-1",
+    "category": "custom",
+    "group": "fabricated",
+    "material": "S355 steel",
+    "bbox": [
+      190.0,
+      -114.0,
+      -52.0,
+      250.0,
+      -41.06125,
+      4.0
+    ],
+    "volume_mm3": 64419.35151993712
+  },
+  {
+    "name": "G08_Removable_top_arm_1_-1",
+    "category": "custom",
+    "group": "fabricated",
+    "material": "S355 steel",
+    "bbox": [
+      190.0,
+      -114.0,
+      4.0,
+      250.0,
+      -41.06125,
+      36.0
+    ],
+    "volume_mm3": 36325.5488462192
+  },
+  {
+    "name": "G09_Sliding_clamp_1_-1_0",
+    "category": "custom",
+    "group": "steel",
+    "material": "S355 clamp40x40x12",
+    "bbox": [
+      200.0,
+      -78.06125,
+      -64.0,
+      240.0,
+      -38.06125,
+      -52.0
+    ],
+    "volume_mm3": 17607.212524629977
+  },
+  {
+    "name": "G09_Sliding_clamp_1_-1_1",
+    "category": "custom",
+    "group": "steel",
+    "material": "S355 clamp40x40x12",
+    "bbox": [
+      200.0,
+      -78.06125,
+      12.0,
+      240.0,
+      -38.06125,
+      24.0
+    ],
+    "volume_mm3": 17607.212524629977
+  },
+  {
+    "name": "G10_M12_nut_1_-1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "M12 locknut, prevailing torque",
+    "bbox": [
+      209.608,
+      -67.06098599612788,
+      -76.5,
+      230.392,
+      -49.06151400387211,
+      -66.49999999999999
+    ],
+    "volume_mm3": 1674.7843388605029
+  },
+  {
+    "name": "G10_M12_nut_1_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "M12 locknut, prevailing torque",
+    "bbox": [
+      209.608,
+      -67.06098599612788,
+      26.5,
+      230.392,
+      -49.06151400387211,
+      36.5
+    ],
+    "volume_mm3": 1674.7843388605029
+  },
+  {
+    "name": "B04_Yoke_M8x25_1_-1_0_-40",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      213.5,
+      -125.4,
+      -46.5,
+      226.5,
+      -92.4,
+      -33.5
+    ],
+    "volume_mm3": 2318.4953783492674
+  },
+  {
+    "name": "B04_Yoke_M8x25_1_-1_0_-24",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      213.5,
+      -125.4,
+      -30.5,
+      226.5,
+      -92.4,
+      -17.5
+    ],
+    "volume_mm3": 2318.4953783492665
+  },
+  {
+    "name": "B04_Yoke_M8x25_1_-1_0_-8",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      213.5,
+      -125.4,
+      -14.5,
+      226.5,
+      -92.4,
+      -1.5
+    ],
+    "volume_mm3": 2318.495378349268
+  },
+  {
+    "name": "B05_Top_M6x25_1_-1_-20",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M6, class8.8; unthreaded envelope",
+    "bbox": [
+      195.0,
+      -113.0,
+      -11.4,
+      205.0,
+      -103.0,
+      19.6
+    ],
+    "volume_mm3": 1178.0972450961724
+  },
+  {
+    "name": "B05_Top_M6x25_1_-1_20",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M6, class8.8; unthreaded envelope",
+    "bbox": [
+      235.0,
+      -113.0,
+      -11.4,
+      245.0,
+      -103.0,
+      19.6
+    ],
+    "volume_mm3": 1178.0972450961724
+  },
+  {
+    "name": "B06_Jack_M8x40_1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      213.5,
+      -126.0,
+      11.5,
+      226.5,
+      -78.0,
+      24.5
+    ],
+    "volume_mm3": 3072.477615210817
+  },
+  {
+    "name": "G01_PU_roller_1_1",
+    "category": "custom",
+    "group": "roller",
+    "material": "bonded polyurethane ShoreA90; qualified roller supplier",
+    "bbox": [
+      195.0,
+      33.06125,
+      -34.0,
+      245.0,
+      83.06125,
+      -6.0
+    ],
+    "volume_mm3": 15451.156731950929
+  },
+  {
+    "name": "G02_roller_core_1_1",
+    "category": "custom",
+    "group": "steel",
+    "material": "S355 steel",
+    "bbox": [
+      199.0,
+      37.06125,
+      -34.0,
+      241.0,
+      79.06125,
+      -6.0
+    ],
+    "volume_mm3": 19792.0337176157
+  },
+  {
+    "name": "G03_6002DDU_1_1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "NSK6002DDU 15x32x9",
+    "bbox": [
+      204.0,
+      42.06125,
+      -34.0,
+      236.0,
+      74.06125,
+      -25.0
+    ],
+    "volume_mm3": 5647.7981929910475
+  },
+  {
+    "name": "G03_6002DDU_1_1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "NSK6002DDU 15x32x9",
+    "bbox": [
+      204.0,
+      42.06125,
+      -15.0,
+      236.0,
+      74.06125,
+      -6.0
+    ],
+    "volume_mm3": 5647.798192991048
+  },
+  {
+    "name": "G04_Inner_spacer_1_1",
+    "category": "custom",
+    "group": "steel",
+    "material": "C45 ground spacer",
+    "bbox": [
+      209.5,
+      47.56125,
+      -25.0,
+      230.5,
+      68.56125,
+      -15.0
+    ],
+    "volume_mm3": 1649.0219838692851
+  },
+  {
+    "name": "G05_End_spacer_1_1_0",
+    "category": "custom",
+    "group": "steel",
+    "material": "C45 ground spacer",
+    "bbox": [
+      209.5,
+      47.56125,
+      -44.0,
+      230.5,
+      68.56125,
+      -34.0
+    ],
+    "volume_mm3": 1649.0219838692842
+  },
+  {
+    "name": "G05_End_spacer_1_1_1",
+    "category": "custom",
+    "group": "steel",
+    "material": "C45 ground spacer",
+    "bbox": [
+      209.5,
+      47.56125,
+      -6.0,
+      230.5,
+      68.56125,
+      4.0
+    ],
+    "volume_mm3": 1649.0219838692851
+  },
+  {
+    "name": "G06_Spindle_1_1",
+    "category": "custom",
+    "group": "steel",
+    "material": "C45 normalized; D15 bearing seat; M12x1.75 ends",
+    "bbox": [
+      212.5,
+      50.56125,
+      -82.0,
+      227.5,
+      65.56125,
+      42.0
+    ],
+    "volume_mm3": 17077.697664914114
+  },
+  {
+    "name": "G07_Lower_yoke_weldment_1_1",
+    "category": "custom",
+    "group": "fabricated",
+    "material": "S355 steel",
+    "bbox": [
+      190.0,
+      41.06125,
+      -52.0,
+      250.0,
+      114.0,
+      4.0
+    ],
+    "volume_mm3": 64419.35151993709
+  },
+  {
+    "name": "G08_Removable_top_arm_1_1",
+    "category": "custom",
+    "group": "fabricated",
+    "material": "S355 steel",
+    "bbox": [
+      190.0,
+      41.06125,
+      4.0,
+      250.0,
+      114.0,
+      36.0
+    ],
+    "volume_mm3": 36325.5488462192
+  },
+  {
+    "name": "G09_Sliding_clamp_1_1_0",
+    "category": "custom",
+    "group": "steel",
+    "material": "S355 clamp40x40x12",
+    "bbox": [
+      200.0,
+      38.06125,
+      -64.0,
+      240.0,
+      78.06125,
+      -52.0
+    ],
+    "volume_mm3": 17607.212524629977
+  },
+  {
+    "name": "G09_Sliding_clamp_1_1_1",
+    "category": "custom",
+    "group": "steel",
+    "material": "S355 clamp40x40x12",
+    "bbox": [
+      200.0,
+      38.06125,
+      12.0,
+      240.0,
+      78.06125,
+      24.0
+    ],
+    "volume_mm3": 17607.212524629977
+  },
+  {
+    "name": "G10_M12_nut_1_1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "M12 locknut, prevailing torque",
+    "bbox": [
+      209.608,
+      49.06151400387212,
+      -76.5,
+      230.392,
+      67.06098599612788,
+      -66.49999999999999
+    ],
+    "volume_mm3": 1674.7843388605024
+  },
+  {
+    "name": "G10_M12_nut_1_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "M12 locknut, prevailing torque",
+    "bbox": [
+      209.608,
+      49.06151400387212,
+      26.5,
+      230.392,
+      67.06098599612788,
+      36.5
+    ],
+    "volume_mm3": 1674.7843388605029
+  },
+  {
+    "name": "B04_Yoke_M8x25_1_1_0_-40",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      213.5,
+      92.4,
+      -46.5,
+      226.5,
+      125.4,
+      -33.5
+    ],
+    "volume_mm3": 2318.4953783492674
+  },
+  {
+    "name": "B04_Yoke_M8x25_1_1_0_-24",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      213.5,
+      92.4,
+      -30.5,
+      226.5,
+      125.4,
+      -17.5
+    ],
+    "volume_mm3": 2318.4953783492665
+  },
+  {
+    "name": "B04_Yoke_M8x25_1_1_0_-8",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      213.5,
+      92.4,
+      -14.5,
+      226.5,
+      125.4,
+      -1.5
+    ],
+    "volume_mm3": 2318.495378349268
+  },
+  {
+    "name": "B05_Top_M6x25_1_1_-20",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M6, class8.8; unthreaded envelope",
+    "bbox": [
+      195.0,
+      103.0,
+      -11.4,
+      205.0,
+      113.0,
+      19.6
+    ],
+    "volume_mm3": 1178.0972450961724
+  },
+  {
+    "name": "B05_Top_M6x25_1_1_20",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M6, class8.8; unthreaded envelope",
+    "bbox": [
+      235.0,
+      103.0,
+      -11.4,
+      245.0,
+      113.0,
+      19.6
+    ],
+    "volume_mm3": 1178.0972450961724
+  },
+  {
+    "name": "B06_Jack_M8x40_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      213.5,
+      78.0,
+      11.5,
+      226.5,
+      126.0,
+      24.5
+    ],
+    "volume_mm3": 3072.477615210817
+  },
+  {
+    "name": "F04_Angle_envelope_motor_-1_-1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "HBLFSN8 family 40-series angle; envelope only",
+    "bbox": [
+      -65.0,
+      -152.0,
+      390.0,
+      -25.0,
+      -116.0,
+      430.0
+    ],
+    "volume_mm3": 12863.827487648066
+  },
+  {
+    "name": "F04_Angle_envelope_guide_-1_-1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "HBLFSN8 family 40-series angle; envelope only",
+    "bbox": [
+      -200.0,
+      -152.0,
+      390.0,
+      -160.0,
+      -116.0,
+      430.0
+    ],
+    "volume_mm3": 12863.827487648066
+  },
+  {
+    "name": "F04_Angle_envelope_motor_1_-1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "HBLFSN8 family 40-series angle; envelope only",
+    "bbox": [
+      105.0,
+      -152.0,
+      390.0,
+      145.0,
+      -116.0,
+      430.0
+    ],
+    "volume_mm3": 12863.827487648066
+  },
+  {
+    "name": "F04_Angle_envelope_guide_1_-1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "HBLFSN8 family 40-series angle; envelope only",
+    "bbox": [
+      240.0,
+      -152.0,
+      390.0,
+      280.0,
+      -116.0,
+      430.0
+    ],
+    "volume_mm3": 12863.827487648066
+  },
+  {
+    "name": "F04_Angle_envelope_motor_-1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "HBLFSN8 family 40-series angle; envelope only",
+    "bbox": [
+      -65.0,
+      116.0,
+      390.0,
+      -25.0,
+      152.0,
+      430.0
+    ],
+    "volume_mm3": 12863.827487648066
+  },
+  {
+    "name": "F04_Angle_envelope_guide_-1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "HBLFSN8 family 40-series angle; envelope only",
+    "bbox": [
+      -200.0,
+      116.0,
+      390.0,
+      -160.0,
+      152.0,
+      430.0
+    ],
+    "volume_mm3": 12863.827487648066
+  },
+  {
+    "name": "F04_Angle_envelope_motor_1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "HBLFSN8 family 40-series angle; envelope only",
+    "bbox": [
+      105.0,
+      116.0,
+      390.0,
+      145.0,
+      152.0,
+      430.0
+    ],
+    "volume_mm3": 12863.827487648066
+  },
+  {
+    "name": "F04_Angle_envelope_guide_1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "HBLFSN8 family 40-series angle; envelope only",
+    "bbox": [
+      240.0,
+      116.0,
+      390.0,
+      280.0,
+      152.0,
+      430.0
+    ],
+    "volume_mm3": 12863.827487648066
+  },
+  {
+    "name": "B07_Guide_Tnut_-1_-1_-40",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 M8 Tnut envelope",
+    "bbox": [
+      -228.5,
+      -125.0,
+      -45.0,
+      -211.5,
+      -119.0,
+      -35.0
+    ],
+    "volume_mm3": 802.0991335470121
+  },
+  {
+    "name": "B07_Guide_Tnut_-1_-1_-24",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 M8 Tnut envelope",
+    "bbox": [
+      -228.5,
+      -125.0,
+      -29.0,
+      -211.5,
+      -119.0,
+      -19.0
+    ],
+    "volume_mm3": 802.0991335470121
+  },
+  {
+    "name": "B07_Guide_Tnut_-1_-1_-8",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 M8 Tnut envelope",
+    "bbox": [
+      -228.5,
+      -125.0,
+      -13.0,
+      -211.5,
+      -119.0,
+      -3.0
+    ],
+    "volume_mm3": 802.0991335470121
+  },
+  {
+    "name": "B07_Guide_Tnut_-1_1_-40",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 M8 Tnut envelope",
+    "bbox": [
+      -228.5,
+      119.0,
+      -45.0,
+      -211.5,
+      125.0,
+      -35.0
+    ],
+    "volume_mm3": 802.0991335470121
+  },
+  {
+    "name": "B07_Guide_Tnut_-1_1_-24",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 M8 Tnut envelope",
+    "bbox": [
+      -228.5,
+      119.0,
+      -29.0,
+      -211.5,
+      125.0,
+      -19.0
+    ],
+    "volume_mm3": 802.0991335470121
+  },
+  {
+    "name": "B07_Guide_Tnut_-1_1_-8",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 M8 Tnut envelope",
+    "bbox": [
+      -228.5,
+      119.0,
+      -13.0,
+      -211.5,
+      125.0,
+      -3.0
+    ],
+    "volume_mm3": 802.0991335470121
+  },
+  {
+    "name": "B07_Guide_Tnut_1_-1_-40",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 M8 Tnut envelope",
+    "bbox": [
+      211.5,
+      -125.0,
+      -45.0,
+      228.5,
+      -119.0,
+      -35.0
+    ],
+    "volume_mm3": 802.0991335470121
+  },
+  {
+    "name": "B07_Guide_Tnut_1_-1_-24",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 M8 Tnut envelope",
+    "bbox": [
+      211.5,
+      -125.0,
+      -29.0,
+      228.5,
+      -119.0,
+      -19.0
+    ],
+    "volume_mm3": 802.0991335470121
+  },
+  {
+    "name": "B07_Guide_Tnut_1_-1_-8",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 M8 Tnut envelope",
+    "bbox": [
+      211.5,
+      -125.0,
+      -13.0,
+      228.5,
+      -119.0,
+      -3.0
+    ],
+    "volume_mm3": 802.0991335470121
+  },
+  {
+    "name": "B07_Guide_Tnut_1_1_-40",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 M8 Tnut envelope",
+    "bbox": [
+      211.5,
+      119.0,
+      -45.0,
+      228.5,
+      125.0,
+      -35.0
+    ],
+    "volume_mm3": 802.0991335470121
+  },
+  {
+    "name": "B07_Guide_Tnut_1_1_-24",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 M8 Tnut envelope",
+    "bbox": [
+      211.5,
+      119.0,
+      -29.0,
+      228.5,
+      125.0,
+      -19.0
+    ],
+    "volume_mm3": 802.0991335470121
+  },
+  {
+    "name": "B07_Guide_Tnut_1_1_-8",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 M8 Tnut envelope",
+    "bbox": [
+      211.5,
+      119.0,
+      -13.0,
+      228.5,
+      125.0,
+      -3.0
+    ],
+    "volume_mm3": 802.0991335470121
+  },
+  {
+    "name": "F05_Top_splice_-1_-1",
+    "category": "custom",
+    "group": "fabricated",
+    "material": "S355 steel",
+    "bbox": [
+      -290.0,
+      -154.0,
+      470.0,
+      -250.0,
+      -74.0,
+      476.0
+    ],
+    "volume_mm3": 18436.592985177682
+  },
+  {
+    "name": "B08_Splice_M8x20_-1_-1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -276.5,
+      -140.5,
+      457.6,
+      -263.5,
+      -127.5,
+      485.6
+    ],
+    "volume_mm3": 2067.1679660620853
+  },
+  {
+    "name": "B08_Splice_M8x20_-1_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -276.5,
+      -100.5,
+      457.6,
+      -263.5,
+      -87.5,
+      485.6
+    ],
+    "volume_mm3": 2067.167966062085
+  },
+  {
+    "name": "F05_Top_splice_-1_1",
+    "category": "custom",
+    "group": "fabricated",
+    "material": "S355 steel",
+    "bbox": [
+      -290.0,
+      74.0,
+      470.0,
+      -250.0,
+      154.0,
+      476.0
+    ],
+    "volume_mm3": 18436.592985177682
+  },
+  {
+    "name": "B08_Splice_M8x20_-1_1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -276.5,
+      87.5,
+      457.6,
+      -263.5,
+      100.5,
+      485.6
+    ],
+    "volume_mm3": 2067.167966062085
+  },
+  {
+    "name": "B08_Splice_M8x20_-1_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -276.5,
+      127.5,
+      457.6,
+      -263.5,
+      140.5,
+      485.6
+    ],
+    "volume_mm3": 2067.1679660620853
+  },
+  {
+    "name": "F05_Top_splice_1_-1",
+    "category": "custom",
+    "group": "fabricated",
+    "material": "S355 steel",
+    "bbox": [
+      250.0,
+      -154.0,
+      470.0,
+      290.0,
+      -74.0,
+      476.0
+    ],
+    "volume_mm3": 18436.592985177682
+  },
+  {
+    "name": "B08_Splice_M8x20_1_-1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      263.5,
+      -140.5,
+      457.6,
+      276.5,
+      -127.5,
+      485.6
+    ],
+    "volume_mm3": 2067.1679660620853
+  },
+  {
+    "name": "B08_Splice_M8x20_1_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      263.5,
+      -100.5,
+      457.6,
+      276.5,
+      -87.5,
+      485.6
+    ],
+    "volume_mm3": 2067.167966062085
+  },
+  {
+    "name": "F05_Top_splice_1_1",
+    "category": "custom",
+    "group": "fabricated",
+    "material": "S355 steel",
+    "bbox": [
+      250.0,
+      74.0,
+      470.0,
+      290.0,
+      154.0,
+      476.0
+    ],
+    "volume_mm3": 18436.592985177682
+  },
+  {
+    "name": "B08_Splice_M8x20_1_1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      263.5,
+      87.5,
+      457.6,
+      276.5,
+      100.5,
+      485.6
+    ],
+    "volume_mm3": 2067.167966062085
+  },
+  {
+    "name": "B08_Splice_M8x20_1_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      263.5,
+      127.5,
+      457.6,
+      276.5,
+      140.5,
+      485.6
+    ],
+    "volume_mm3": 2067.1679660620853
+  },
+  {
+    "name": "B09_Angle_side_motor_-1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -74.4,
+      -140.5,
+      403.5,
+      -50.4,
+      -127.5,
+      416.5
+    ],
+    "volume_mm3": 1866.1060362323365
+  },
+  {
+    "name": "B10_Angle_bottom_motor_-1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -51.5,
+      -140.5,
+      415.4,
+      -38.5,
+      -127.5,
+      439.4
+    ],
+    "volume_mm3": 1866.1060362323376
+  },
+  {
+    "name": "B09_Angle_side_guide_-1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -209.4,
+      -140.5,
+      403.5,
+      -185.4,
+      -127.5,
+      416.5
+    ],
+    "volume_mm3": 1866.1060362323367
+  },
+  {
+    "name": "B10_Angle_bottom_guide_-1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -186.5,
+      -140.5,
+      415.4,
+      -173.5,
+      -127.5,
+      439.4
+    ],
+    "volume_mm3": 1866.1060362323376
+  },
+  {
+    "name": "B09_Angle_side_motor_1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      95.6,
+      -140.5,
+      403.5,
+      119.6,
+      -127.5,
+      416.5
+    ],
+    "volume_mm3": 1866.1060362323367
+  },
+  {
+    "name": "B10_Angle_bottom_motor_1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      118.5,
+      -140.5,
+      415.4,
+      131.5,
+      -127.5,
+      439.4
+    ],
+    "volume_mm3": 1866.1060362323378
+  },
+  {
+    "name": "B09_Angle_side_guide_1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      230.6,
+      -140.5,
+      403.5,
+      254.6,
+      -127.5,
+      416.5
+    ],
+    "volume_mm3": 1866.1060362323367
+  },
+  {
+    "name": "B10_Angle_bottom_guide_1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      253.5,
+      -140.5,
+      415.4,
+      266.5,
+      -127.5,
+      439.4
+    ],
+    "volume_mm3": 1866.1060362323385
+  },
+  {
+    "name": "B09_Angle_side_motor_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -74.4,
+      127.5,
+      403.5,
+      -50.4,
+      140.5,
+      416.5
+    ],
+    "volume_mm3": 1866.106036232337
+  },
+  {
+    "name": "B10_Angle_bottom_motor_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -51.5,
+      127.5,
+      415.4,
+      -38.5,
+      140.5,
+      439.4
+    ],
+    "volume_mm3": 1866.1060362323376
+  },
+  {
+    "name": "B09_Angle_side_guide_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -209.4,
+      127.5,
+      403.5,
+      -185.4,
+      140.5,
+      416.5
+    ],
+    "volume_mm3": 1866.106036232337
+  },
+  {
+    "name": "B10_Angle_bottom_guide_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -186.5,
+      127.5,
+      415.4,
+      -173.5,
+      140.5,
+      439.4
+    ],
+    "volume_mm3": 1866.1060362323376
+  },
+  {
+    "name": "B09_Angle_side_motor_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      95.6,
+      127.5,
+      403.5,
+      119.6,
+      140.5,
+      416.5
+    ],
+    "volume_mm3": 1866.106036232337
+  },
+  {
+    "name": "B10_Angle_bottom_motor_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      118.5,
+      127.5,
+      415.4,
+      131.5,
+      140.5,
+      439.4
+    ],
+    "volume_mm3": 1866.1060362323378
+  },
+  {
+    "name": "B09_Angle_side_guide_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      230.6,
+      127.5,
+      403.5,
+      254.6,
+      140.5,
+      416.5
+    ],
+    "volume_mm3": 1866.1060362323367
+  },
+  {
+    "name": "B10_Angle_bottom_guide_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      253.5,
+      127.5,
+      415.4,
+      266.5,
+      140.5,
+      439.4
+    ],
+    "volume_mm3": 1866.1060362323385
+  },
+  {
+    "name": "F06_Low_bridge_-1_-1",
+    "category": "purchase",
+    "group": "frame",
+    "material": "HFS8-4040 family; 10mm slot, section envelope",
+    "bbox": [
+      -200.0,
+      -154.0,
+      110.0,
+      -105.0,
+      -114.0,
+      150.0
+    ],
+    "volume_mm3": 105381.90294782775
+  },
+  {
+    "name": "F07_Low_gusset_motor_-1_-1",
+    "category": "custom",
+    "group": "fabricated",
+    "material": "S355 steel",
+    "bbox": [
+      -160.0,
+      -160.0,
+      110.0,
+      -65.0,
+      -154.0,
+      190.0
+    ],
+    "volume_mm3": 44073.185970355364
+  },
+  {
+    "name": "B11_Brace_motor_-1_-1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -126.5,
+      -171.6,
+      123.5,
+      -113.5,
+      -143.6,
+      136.5
+    ],
+    "volume_mm3": 2067.167966062083
+  },
+  {
+    "name": "WS_Brace_shim_motor_-1_-1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -128.0,
+      -162.0,
+      122.0,
+      -112.0,
+      -160.0,
+      138.0
+    ],
+    "volume_mm3": 291.28847084084543
+  },
+  {
+    "name": "TNB_Brace_motor_-1_-1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      -128.5,
+      -149.0,
+      125.0,
+      -111.5,
+      -143.0,
+      135.0
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "B11_Brace_motor_-1_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -146.5,
+      -171.6,
+      123.5,
+      -133.5,
+      -143.6,
+      136.5
+    ],
+    "volume_mm3": 2067.167966062083
+  },
+  {
+    "name": "WS_Brace_shim_motor_-1_-1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -148.0,
+      -162.0,
+      122.0,
+      -132.0,
+      -160.0,
+      138.0
+    ],
+    "volume_mm3": 291.28847084084583
+  },
+  {
+    "name": "TNB_Brace_motor_-1_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      -148.5,
+      -149.0,
+      125.0,
+      -131.5,
+      -143.0,
+      135.0
+    ],
+    "volume_mm3": 802.0991335470121
+  },
+  {
+    "name": "B11_Brace_motor_-1_-1_2",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -91.5,
+      -171.6,
+      148.5,
+      -78.5,
+      -143.6,
+      161.5
+    ],
+    "volume_mm3": 2067.1679660620835
+  },
+  {
+    "name": "WS_Brace_shim_motor_-1_-1_2",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -93.0,
+      -162.0,
+      147.0,
+      -77.0,
+      -160.0,
+      163.0
+    ],
+    "volume_mm3": 291.28847084084543
+  },
+  {
+    "name": "TNB_Brace_motor_-1_-1_2",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      -90.0,
+      -149.0,
+      146.5,
+      -80.0,
+      -143.0,
+      163.5
+    ],
+    "volume_mm3": 802.0991335470117
+  },
+  {
+    "name": "B11_Brace_motor_-1_-1_3",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -91.5,
+      -171.6,
+      168.5,
+      -78.5,
+      -143.6,
+      181.5
+    ],
+    "volume_mm3": 2067.1679660620835
+  },
+  {
+    "name": "WS_Brace_shim_motor_-1_-1_3",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -93.0,
+      -162.0,
+      167.0,
+      -77.0,
+      -160.0,
+      183.0
+    ],
+    "volume_mm3": 291.28847084084543
+  },
+  {
+    "name": "TNB_Brace_motor_-1_-1_3",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      -90.0,
+      -149.0,
+      166.5,
+      -80.0,
+      -143.0,
+      183.5
+    ],
+    "volume_mm3": 802.0991335470117
+  },
+  {
+    "name": "F07_Low_gusset_guide_-1_-1",
+    "category": "custom",
+    "group": "fabricated",
+    "material": "S355 steel",
+    "bbox": [
+      -240.0,
+      -160.0,
+      110.0,
+      -145.0,
+      -154.0,
+      190.0
+    ],
+    "volume_mm3": 44073.185970355364
+  },
+  {
+    "name": "B11_Brace_guide_-1_-1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -171.5,
+      -171.6,
+      123.5,
+      -158.5,
+      -143.6,
+      136.5
+    ],
+    "volume_mm3": 2067.167966062083
+  },
+  {
+    "name": "WS_Brace_shim_guide_-1_-1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -173.0,
+      -162.0,
+      122.0,
+      -157.0,
+      -160.0,
+      138.0
+    ],
+    "volume_mm3": 291.28847084084583
+  },
+  {
+    "name": "TNB_Brace_guide_-1_-1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      -173.5,
+      -149.0,
+      125.0,
+      -156.5,
+      -143.0,
+      135.0
+    ],
+    "volume_mm3": 802.0991335470121
+  },
+  {
+    "name": "B11_Brace_guide_-1_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -191.5,
+      -171.6,
+      123.5,
+      -178.5,
+      -143.6,
+      136.5
+    ],
+    "volume_mm3": 2067.167966062083
+  },
+  {
+    "name": "WS_Brace_shim_guide_-1_-1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -193.0,
+      -162.0,
+      122.0,
+      -177.0,
+      -160.0,
+      138.0
+    ],
+    "volume_mm3": 291.28847084084583
+  },
+  {
+    "name": "TNB_Brace_guide_-1_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      -193.5,
+      -149.0,
+      125.0,
+      -176.5,
+      -143.0,
+      135.0
+    ],
+    "volume_mm3": 802.0991335470121
+  },
+  {
+    "name": "B11_Brace_guide_-1_-1_2",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -226.5,
+      -171.6,
+      148.5,
+      -213.5,
+      -143.6,
+      161.5
+    ],
+    "volume_mm3": 2067.1679660620835
+  },
+  {
+    "name": "WS_Brace_shim_guide_-1_-1_2",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -228.0,
+      -162.0,
+      147.0,
+      -212.0,
+      -160.0,
+      163.0
+    ],
+    "volume_mm3": 291.2884708408458
+  },
+  {
+    "name": "TNB_Brace_guide_-1_-1_2",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      -225.0,
+      -149.0,
+      146.5,
+      -215.0,
+      -143.0,
+      163.5
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "B11_Brace_guide_-1_-1_3",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -226.5,
+      -171.6,
+      168.5,
+      -213.5,
+      -143.6,
+      181.5
+    ],
+    "volume_mm3": 2067.1679660620835
+  },
+  {
+    "name": "WS_Brace_shim_guide_-1_-1_3",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -228.0,
+      -162.0,
+      167.0,
+      -212.0,
+      -160.0,
+      183.0
+    ],
+    "volume_mm3": 291.2884708408458
+  },
+  {
+    "name": "TNB_Brace_guide_-1_-1_3",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      -225.0,
+      -149.0,
+      166.5,
+      -215.0,
+      -143.0,
+      183.5
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "F06_Low_bridge_1_-1",
+    "category": "purchase",
+    "group": "frame",
+    "material": "HFS8-4040 family; 10mm slot, section envelope",
+    "bbox": [
+      105.0,
+      -154.0,
+      110.0,
+      200.0,
+      -114.0,
+      150.0
+    ],
+    "volume_mm3": 105381.90294782775
+  },
+  {
+    "name": "F07_Low_gusset_motor_1_-1",
+    "category": "custom",
+    "group": "fabricated",
+    "material": "S355 steel",
+    "bbox": [
+      65.0,
+      -160.0,
+      110.0,
+      160.0,
+      -154.0,
+      190.0
+    ],
+    "volume_mm3": 44073.185970355364
+  },
+  {
+    "name": "B11_Brace_motor_1_-1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      113.5,
+      -171.6,
+      123.5,
+      126.5,
+      -143.6,
+      136.5
+    ],
+    "volume_mm3": 2067.167966062083
+  },
+  {
+    "name": "WS_Brace_shim_motor_1_-1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      112.0,
+      -162.0,
+      122.0,
+      128.0,
+      -160.0,
+      138.0
+    ],
+    "volume_mm3": 291.28847084084543
+  },
+  {
+    "name": "TNB_Brace_motor_1_-1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      111.5,
+      -149.0,
+      125.0,
+      128.5,
+      -143.0,
+      135.0
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "B11_Brace_motor_1_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      133.5,
+      -171.6,
+      123.5,
+      146.5,
+      -143.6,
+      136.5
+    ],
+    "volume_mm3": 2067.167966062083
+  },
+  {
+    "name": "WS_Brace_shim_motor_1_-1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      132.0,
+      -162.0,
+      122.0,
+      148.0,
+      -160.0,
+      138.0
+    ],
+    "volume_mm3": 291.28847084084583
+  },
+  {
+    "name": "TNB_Brace_motor_1_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      131.5,
+      -149.0,
+      125.0,
+      148.5,
+      -143.0,
+      135.0
+    ],
+    "volume_mm3": 802.0991335470121
+  },
+  {
+    "name": "B11_Brace_motor_1_-1_2",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      78.5,
+      -171.6,
+      148.5,
+      91.5,
+      -143.6,
+      161.5
+    ],
+    "volume_mm3": 2067.1679660620835
+  },
+  {
+    "name": "WS_Brace_shim_motor_1_-1_2",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      77.0,
+      -162.0,
+      147.0,
+      93.0,
+      -160.0,
+      163.0
+    ],
+    "volume_mm3": 291.28847084084543
+  },
+  {
+    "name": "TNB_Brace_motor_1_-1_2",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      80.0,
+      -149.0,
+      146.5,
+      90.0,
+      -143.0,
+      163.5
+    ],
+    "volume_mm3": 802.0991335470117
+  },
+  {
+    "name": "B11_Brace_motor_1_-1_3",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      78.5,
+      -171.6,
+      168.5,
+      91.5,
+      -143.6,
+      181.5
+    ],
+    "volume_mm3": 2067.1679660620835
+  },
+  {
+    "name": "WS_Brace_shim_motor_1_-1_3",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      77.0,
+      -162.0,
+      167.0,
+      93.0,
+      -160.0,
+      183.0
+    ],
+    "volume_mm3": 291.28847084084543
+  },
+  {
+    "name": "TNB_Brace_motor_1_-1_3",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      80.0,
+      -149.0,
+      166.5,
+      90.0,
+      -143.0,
+      183.5
+    ],
+    "volume_mm3": 802.0991335470117
+  },
+  {
+    "name": "F07_Low_gusset_guide_1_-1",
+    "category": "custom",
+    "group": "fabricated",
+    "material": "S355 steel",
+    "bbox": [
+      145.0,
+      -160.0,
+      110.0,
+      240.0,
+      -154.0,
+      190.0
+    ],
+    "volume_mm3": 44073.185970355364
+  },
+  {
+    "name": "B11_Brace_guide_1_-1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      158.5,
+      -171.6,
+      123.5,
+      171.5,
+      -143.6,
+      136.5
+    ],
+    "volume_mm3": 2067.167966062083
+  },
+  {
+    "name": "WS_Brace_shim_guide_1_-1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      157.0,
+      -162.0,
+      122.0,
+      173.0,
+      -160.0,
+      138.0
+    ],
+    "volume_mm3": 291.28847084084583
+  },
+  {
+    "name": "TNB_Brace_guide_1_-1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      156.5,
+      -149.0,
+      125.0,
+      173.5,
+      -143.0,
+      135.0
+    ],
+    "volume_mm3": 802.0991335470121
+  },
+  {
+    "name": "B11_Brace_guide_1_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      178.5,
+      -171.6,
+      123.5,
+      191.5,
+      -143.6,
+      136.5
+    ],
+    "volume_mm3": 2067.167966062083
+  },
+  {
+    "name": "WS_Brace_shim_guide_1_-1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      177.0,
+      -162.0,
+      122.0,
+      193.0,
+      -160.0,
+      138.0
+    ],
+    "volume_mm3": 291.28847084084583
+  },
+  {
+    "name": "TNB_Brace_guide_1_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      176.5,
+      -149.0,
+      125.0,
+      193.5,
+      -143.0,
+      135.0
+    ],
+    "volume_mm3": 802.0991335470121
+  },
+  {
+    "name": "B11_Brace_guide_1_-1_2",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      213.5,
+      -171.6,
+      148.5,
+      226.5,
+      -143.6,
+      161.5
+    ],
+    "volume_mm3": 2067.1679660620835
+  },
+  {
+    "name": "WS_Brace_shim_guide_1_-1_2",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      212.0,
+      -162.0,
+      147.0,
+      228.0,
+      -160.0,
+      163.0
+    ],
+    "volume_mm3": 291.2884708408458
+  },
+  {
+    "name": "TNB_Brace_guide_1_-1_2",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      215.0,
+      -149.0,
+      146.5,
+      225.0,
+      -143.0,
+      163.5
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "B11_Brace_guide_1_-1_3",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      213.5,
+      -171.6,
+      168.5,
+      226.5,
+      -143.6,
+      181.5
+    ],
+    "volume_mm3": 2067.1679660620835
+  },
+  {
+    "name": "WS_Brace_shim_guide_1_-1_3",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      212.0,
+      -162.0,
+      167.0,
+      228.0,
+      -160.0,
+      183.0
+    ],
+    "volume_mm3": 291.2884708408458
+  },
+  {
+    "name": "TNB_Brace_guide_1_-1_3",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      215.0,
+      -149.0,
+      166.5,
+      225.0,
+      -143.0,
+      183.5
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "F06_Low_bridge_-1_1",
+    "category": "purchase",
+    "group": "frame",
+    "material": "HFS8-4040 family; 10mm slot, section envelope",
+    "bbox": [
+      -200.0,
+      114.0,
+      110.0,
+      -105.0,
+      154.0,
+      150.0
+    ],
+    "volume_mm3": 105381.90294782777
+  },
+  {
+    "name": "F07_Low_gusset_motor_-1_1",
+    "category": "custom",
+    "group": "fabricated",
+    "material": "S355 steel",
+    "bbox": [
+      -160.0,
+      154.0,
+      110.0,
+      -65.0,
+      160.0,
+      190.0
+    ],
+    "volume_mm3": 44073.185970355364
+  },
+  {
+    "name": "B11_Brace_motor_-1_1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -126.5,
+      143.6,
+      123.5,
+      -113.5,
+      171.6,
+      136.5
+    ],
+    "volume_mm3": 2067.167966062083
+  },
+  {
+    "name": "WS_Brace_shim_motor_-1_1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -128.0,
+      160.0,
+      122.0,
+      -112.0,
+      162.0,
+      138.0
+    ],
+    "volume_mm3": 291.28847084084543
+  },
+  {
+    "name": "TNB_Brace_motor_-1_1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      -128.5,
+      143.0,
+      125.0,
+      -111.5,
+      149.0,
+      135.0
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "B11_Brace_motor_-1_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -146.5,
+      143.6,
+      123.5,
+      -133.5,
+      171.6,
+      136.5
+    ],
+    "volume_mm3": 2067.167966062083
+  },
+  {
+    "name": "WS_Brace_shim_motor_-1_1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -148.0,
+      160.0,
+      122.0,
+      -132.0,
+      162.0,
+      138.0
+    ],
+    "volume_mm3": 291.28847084084583
+  },
+  {
+    "name": "TNB_Brace_motor_-1_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      -148.5,
+      143.0,
+      125.0,
+      -131.5,
+      149.0,
+      135.0
+    ],
+    "volume_mm3": 802.0991335470121
+  },
+  {
+    "name": "B11_Brace_motor_-1_1_2",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -91.5,
+      143.6,
+      148.5,
+      -78.5,
+      171.6,
+      161.5
+    ],
+    "volume_mm3": 2067.1679660620835
+  },
+  {
+    "name": "WS_Brace_shim_motor_-1_1_2",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -93.0,
+      160.0,
+      147.0,
+      -77.0,
+      162.0,
+      163.0
+    ],
+    "volume_mm3": 291.28847084084543
+  },
+  {
+    "name": "TNB_Brace_motor_-1_1_2",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      -90.0,
+      143.0,
+      146.5,
+      -80.0,
+      149.0,
+      163.5
+    ],
+    "volume_mm3": 802.0991335470117
+  },
+  {
+    "name": "B11_Brace_motor_-1_1_3",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -91.5,
+      143.6,
+      168.5,
+      -78.5,
+      171.6,
+      181.5
+    ],
+    "volume_mm3": 2067.1679660620835
+  },
+  {
+    "name": "WS_Brace_shim_motor_-1_1_3",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -93.0,
+      160.0,
+      167.0,
+      -77.0,
+      162.0,
+      183.0
+    ],
+    "volume_mm3": 291.28847084084543
+  },
+  {
+    "name": "TNB_Brace_motor_-1_1_3",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      -90.0,
+      143.0,
+      166.5,
+      -80.0,
+      149.0,
+      183.5
+    ],
+    "volume_mm3": 802.0991335470117
+  },
+  {
+    "name": "F07_Low_gusset_guide_-1_1",
+    "category": "custom",
+    "group": "fabricated",
+    "material": "S355 steel",
+    "bbox": [
+      -240.0,
+      154.0,
+      110.0,
+      -145.0,
+      160.0,
+      190.0
+    ],
+    "volume_mm3": 44073.185970355364
+  },
+  {
+    "name": "B11_Brace_guide_-1_1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -171.5,
+      143.6,
+      123.5,
+      -158.5,
+      171.6,
+      136.5
+    ],
+    "volume_mm3": 2067.167966062083
+  },
+  {
+    "name": "WS_Brace_shim_guide_-1_1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -173.0,
+      160.0,
+      122.0,
+      -157.0,
+      162.0,
+      138.0
+    ],
+    "volume_mm3": 291.28847084084583
+  },
+  {
+    "name": "TNB_Brace_guide_-1_1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      -173.5,
+      143.0,
+      125.0,
+      -156.5,
+      149.0,
+      135.0
+    ],
+    "volume_mm3": 802.0991335470121
+  },
+  {
+    "name": "B11_Brace_guide_-1_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -191.5,
+      143.6,
+      123.5,
+      -178.5,
+      171.6,
+      136.5
+    ],
+    "volume_mm3": 2067.167966062083
+  },
+  {
+    "name": "WS_Brace_shim_guide_-1_1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -193.0,
+      160.0,
+      122.0,
+      -177.0,
+      162.0,
+      138.0
+    ],
+    "volume_mm3": 291.28847084084583
+  },
+  {
+    "name": "TNB_Brace_guide_-1_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      -193.5,
+      143.0,
+      125.0,
+      -176.5,
+      149.0,
+      135.0
+    ],
+    "volume_mm3": 802.0991335470121
+  },
+  {
+    "name": "B11_Brace_guide_-1_1_2",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -226.5,
+      143.6,
+      148.5,
+      -213.5,
+      171.6,
+      161.5
+    ],
+    "volume_mm3": 2067.1679660620835
+  },
+  {
+    "name": "WS_Brace_shim_guide_-1_1_2",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -228.0,
+      160.0,
+      147.0,
+      -212.0,
+      162.0,
+      163.0
+    ],
+    "volume_mm3": 291.2884708408458
+  },
+  {
+    "name": "TNB_Brace_guide_-1_1_2",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      -225.0,
+      143.0,
+      146.5,
+      -215.0,
+      149.0,
+      163.5
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "B11_Brace_guide_-1_1_3",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      -226.5,
+      143.6,
+      168.5,
+      -213.5,
+      171.6,
+      181.5
+    ],
+    "volume_mm3": 2067.1679660620835
+  },
+  {
+    "name": "WS_Brace_shim_guide_-1_1_3",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -228.0,
+      160.0,
+      167.0,
+      -212.0,
+      162.0,
+      183.0
+    ],
+    "volume_mm3": 291.2884708408458
+  },
+  {
+    "name": "TNB_Brace_guide_-1_1_3",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      -225.0,
+      143.0,
+      166.5,
+      -215.0,
+      149.0,
+      183.5
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "F06_Low_bridge_1_1",
+    "category": "purchase",
+    "group": "frame",
+    "material": "HFS8-4040 family; 10mm slot, section envelope",
+    "bbox": [
+      105.0,
+      114.0,
+      110.0,
+      200.0,
+      154.0,
+      150.0
+    ],
+    "volume_mm3": 105381.90294782777
+  },
+  {
+    "name": "F07_Low_gusset_motor_1_1",
+    "category": "custom",
+    "group": "fabricated",
+    "material": "S355 steel",
+    "bbox": [
+      65.0,
+      154.0,
+      110.0,
+      160.0,
+      160.0,
+      190.0
+    ],
+    "volume_mm3": 44073.185970355364
+  },
+  {
+    "name": "B11_Brace_motor_1_1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      113.5,
+      143.6,
+      123.5,
+      126.5,
+      171.6,
+      136.5
+    ],
+    "volume_mm3": 2067.167966062083
+  },
+  {
+    "name": "WS_Brace_shim_motor_1_1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      112.0,
+      160.0,
+      122.0,
+      128.0,
+      162.0,
+      138.0
+    ],
+    "volume_mm3": 291.28847084084543
+  },
+  {
+    "name": "TNB_Brace_motor_1_1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      111.5,
+      143.0,
+      125.0,
+      128.5,
+      149.0,
+      135.0
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "B11_Brace_motor_1_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      133.5,
+      143.6,
+      123.5,
+      146.5,
+      171.6,
+      136.5
+    ],
+    "volume_mm3": 2067.167966062083
+  },
+  {
+    "name": "WS_Brace_shim_motor_1_1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      132.0,
+      160.0,
+      122.0,
+      148.0,
+      162.0,
+      138.0
+    ],
+    "volume_mm3": 291.28847084084583
+  },
+  {
+    "name": "TNB_Brace_motor_1_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      131.5,
+      143.0,
+      125.0,
+      148.5,
+      149.0,
+      135.0
+    ],
+    "volume_mm3": 802.0991335470121
+  },
+  {
+    "name": "B11_Brace_motor_1_1_2",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      78.5,
+      143.6,
+      148.5,
+      91.5,
+      171.6,
+      161.5
+    ],
+    "volume_mm3": 2067.1679660620835
+  },
+  {
+    "name": "WS_Brace_shim_motor_1_1_2",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      77.0,
+      160.0,
+      147.0,
+      93.0,
+      162.0,
+      163.0
+    ],
+    "volume_mm3": 291.28847084084543
+  },
+  {
+    "name": "TNB_Brace_motor_1_1_2",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      80.0,
+      143.0,
+      146.5,
+      90.0,
+      149.0,
+      163.5
+    ],
+    "volume_mm3": 802.0991335470117
+  },
+  {
+    "name": "B11_Brace_motor_1_1_3",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      78.5,
+      143.6,
+      168.5,
+      91.5,
+      171.6,
+      181.5
+    ],
+    "volume_mm3": 2067.1679660620835
+  },
+  {
+    "name": "WS_Brace_shim_motor_1_1_3",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      77.0,
+      160.0,
+      167.0,
+      93.0,
+      162.0,
+      183.0
+    ],
+    "volume_mm3": 291.28847084084543
+  },
+  {
+    "name": "TNB_Brace_motor_1_1_3",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      80.0,
+      143.0,
+      166.5,
+      90.0,
+      149.0,
+      183.5
+    ],
+    "volume_mm3": 802.0991335470117
+  },
+  {
+    "name": "F07_Low_gusset_guide_1_1",
+    "category": "custom",
+    "group": "fabricated",
+    "material": "S355 steel",
+    "bbox": [
+      145.0,
+      154.0,
+      110.0,
+      240.0,
+      160.0,
+      190.0
+    ],
+    "volume_mm3": 44073.185970355364
+  },
+  {
+    "name": "B11_Brace_guide_1_1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      158.5,
+      143.6,
+      123.5,
+      171.5,
+      171.6,
+      136.5
+    ],
+    "volume_mm3": 2067.167966062083
+  },
+  {
+    "name": "WS_Brace_shim_guide_1_1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      157.0,
+      160.0,
+      122.0,
+      173.0,
+      162.0,
+      138.0
+    ],
+    "volume_mm3": 291.28847084084583
+  },
+  {
+    "name": "TNB_Brace_guide_1_1_0",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      156.5,
+      143.0,
+      125.0,
+      173.5,
+      149.0,
+      135.0
+    ],
+    "volume_mm3": 802.0991335470121
+  },
+  {
+    "name": "B11_Brace_guide_1_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      178.5,
+      143.6,
+      123.5,
+      191.5,
+      171.6,
+      136.5
+    ],
+    "volume_mm3": 2067.167966062083
+  },
+  {
+    "name": "WS_Brace_shim_guide_1_1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      177.0,
+      160.0,
+      122.0,
+      193.0,
+      162.0,
+      138.0
+    ],
+    "volume_mm3": 291.28847084084583
+  },
+  {
+    "name": "TNB_Brace_guide_1_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      176.5,
+      143.0,
+      125.0,
+      193.5,
+      149.0,
+      135.0
+    ],
+    "volume_mm3": 802.0991335470121
+  },
+  {
+    "name": "B11_Brace_guide_1_1_2",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      213.5,
+      143.6,
+      148.5,
+      226.5,
+      171.6,
+      161.5
+    ],
+    "volume_mm3": 2067.1679660620835
+  },
+  {
+    "name": "WS_Brace_shim_guide_1_1_2",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      212.0,
+      160.0,
+      147.0,
+      228.0,
+      162.0,
+      163.0
+    ],
+    "volume_mm3": 291.2884708408458
+  },
+  {
+    "name": "TNB_Brace_guide_1_1_2",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      215.0,
+      143.0,
+      146.5,
+      225.0,
+      149.0,
+      163.5
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "B11_Brace_guide_1_1_3",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "ISO4762 M8, class8.8; unthreaded envelope",
+    "bbox": [
+      213.5,
+      143.6,
+      168.5,
+      226.5,
+      171.6,
+      181.5
+    ],
+    "volume_mm3": 2067.1679660620835
+  },
+  {
+    "name": "WS_Brace_shim_guide_1_1_3",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      212.0,
+      160.0,
+      167.0,
+      228.0,
+      162.0,
+      183.0
+    ],
+    "volume_mm3": 291.2884708408458
+  },
+  {
+    "name": "TNB_Brace_guide_1_1_3",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8M8Tnut envelope; exact supplier CAD needed",
+    "bbox": [
+      215.0,
+      143.0,
+      166.5,
+      225.0,
+      149.0,
+      183.5
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "W_B01_Plate_M8x35_-1_-1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -93.0,
+      -90.25,
+      175.2,
+      -77.0,
+      -88.65,
+      191.2
+    ],
+    "volume_mm3": 233.0307766726761
+  },
+  {
+    "name": "W_B01_Plate_M8x35_-1_-1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -93.0,
+      -90.25,
+      235.2,
+      -77.0,
+      -88.65,
+      251.2
+    ],
+    "volume_mm3": 233.0307766726761
+  },
+  {
+    "name": "W_B01_Plate_M8x35_-1_-1_2",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -93.0,
+      -90.25,
+      295.2,
+      -77.0,
+      -88.65,
+      311.2
+    ],
+    "volume_mm3": 233.03077667267593
+  },
+  {
+    "name": "W_B01_Plate_M8x35_-1_1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      77.0,
+      -90.25,
+      175.2,
+      93.0,
+      -88.65,
+      191.2
+    ],
+    "volume_mm3": 233.0307766726761
+  },
+  {
+    "name": "W_B01_Plate_M8x35_-1_1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      77.0,
+      -90.25,
+      235.2,
+      93.0,
+      -88.65,
+      251.2
+    ],
+    "volume_mm3": 233.0307766726761
+  },
+  {
+    "name": "W_B01_Plate_M8x35_-1_1_2",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      77.0,
+      -90.25,
+      295.2,
+      93.0,
+      -88.65,
+      311.2
+    ],
+    "volume_mm3": 233.03077667267593
+  },
+  {
+    "name": "W_B03_Keeper_M8x20_-1_-1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -28.0,
+      -101.85,
+      177.2,
+      -12.0,
+      -100.25,
+      193.2
+    ],
+    "volume_mm3": 233.03077667267615
+  },
+  {
+    "name": "W_B03_Keeper_M8x20_-1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      12.0,
+      -101.85,
+      177.2,
+      28.0,
+      -100.25,
+      193.2
+    ],
+    "volume_mm3": 233.03077667267615
+  },
+  {
+    "name": "W_B01_Plate_M8x35_1_-1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -93.0,
+      88.65,
+      175.2,
+      -77.0,
+      90.25,
+      191.2
+    ],
+    "volume_mm3": 233.0307766726761
+  },
+  {
+    "name": "W_B01_Plate_M8x35_1_-1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -93.0,
+      88.65,
+      235.2,
+      -77.0,
+      90.25,
+      251.2
+    ],
+    "volume_mm3": 233.0307766726761
+  },
+  {
+    "name": "W_B01_Plate_M8x35_1_-1_2",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -93.0,
+      88.65,
+      295.2,
+      -77.0,
+      90.25,
+      311.2
+    ],
+    "volume_mm3": 233.03077667267593
+  },
+  {
+    "name": "W_B01_Plate_M8x35_1_1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      77.0,
+      88.65,
+      175.2,
+      93.0,
+      90.25,
+      191.2
+    ],
+    "volume_mm3": 233.0307766726761
+  },
+  {
+    "name": "W_B01_Plate_M8x35_1_1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      77.0,
+      88.65,
+      235.2,
+      93.0,
+      90.25,
+      251.2
+    ],
+    "volume_mm3": 233.0307766726761
+  },
+  {
+    "name": "W_B01_Plate_M8x35_1_1_2",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      77.0,
+      88.65,
+      295.2,
+      93.0,
+      90.25,
+      311.2
+    ],
+    "volume_mm3": 233.03077667267593
+  },
+  {
+    "name": "W_B03_Keeper_M8x20_1_-1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -28.0,
+      100.25,
+      177.2,
+      -12.0,
+      101.85,
+      193.2
+    ],
+    "volume_mm3": 233.03077667267615
+  },
+  {
+    "name": "W_B03_Keeper_M8x20_1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      12.0,
+      100.25,
+      177.2,
+      28.0,
+      101.85,
+      193.2
+    ],
+    "volume_mm3": 233.03077667267615
+  },
+  {
+    "name": "W_B04_Yoke_M8x25_-1_-1_0_-40",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -228.0,
+      -102.0,
+      -48.0,
+      -212.0,
+      -100.4,
+      -32.0
+    ],
+    "volume_mm3": 233.03077667267638
+  },
+  {
+    "name": "W_B04_Yoke_M8x25_-1_-1_0_-24",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -228.0,
+      -102.0,
+      -32.0,
+      -212.0,
+      -100.4,
+      -16.0
+    ],
+    "volume_mm3": 233.03077667267644
+  },
+  {
+    "name": "W_B04_Yoke_M8x25_-1_-1_0_-8",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -228.0,
+      -102.0,
+      -16.0,
+      -212.0,
+      -100.4,
+      0.0
+    ],
+    "volume_mm3": 233.03077667267638
+  },
+  {
+    "name": "W_B05_Top_M6x25_-1_-1_-20",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -246.0,
+      -114.0,
+      12.0,
+      -234.0,
+      -102.0,
+      13.6
+    ],
+    "volume_mm3": 129.483882810357
+  },
+  {
+    "name": "W_B05_Top_M6x25_-1_-1_20",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -206.0,
+      -114.0,
+      12.0,
+      -194.0,
+      -102.0,
+      13.6
+    ],
+    "volume_mm3": 129.483882810357
+  },
+  {
+    "name": "W_B04_Yoke_M8x25_-1_1_0_-40",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -228.0,
+      100.4,
+      -48.0,
+      -212.0,
+      102.0,
+      -32.0
+    ],
+    "volume_mm3": 233.03077667267638
+  },
+  {
+    "name": "W_B04_Yoke_M8x25_-1_1_0_-24",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -228.0,
+      100.4,
+      -32.0,
+      -212.0,
+      102.0,
+      -16.0
+    ],
+    "volume_mm3": 233.03077667267644
+  },
+  {
+    "name": "W_B04_Yoke_M8x25_-1_1_0_-8",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -228.0,
+      100.4,
+      -16.0,
+      -212.0,
+      102.0,
+      0.0
+    ],
+    "volume_mm3": 233.03077667267638
+  },
+  {
+    "name": "W_B05_Top_M6x25_-1_1_-20",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -246.0,
+      102.0,
+      12.0,
+      -234.0,
+      114.0,
+      13.6
+    ],
+    "volume_mm3": 129.483882810357
+  },
+  {
+    "name": "W_B05_Top_M6x25_-1_1_20",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -206.0,
+      102.0,
+      12.0,
+      -194.0,
+      114.0,
+      13.6
+    ],
+    "volume_mm3": 129.483882810357
+  },
+  {
+    "name": "W_B04_Yoke_M8x25_1_-1_0_-40",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      212.0,
+      -102.0,
+      -48.0,
+      228.0,
+      -100.4,
+      -32.0
+    ],
+    "volume_mm3": 233.03077667267638
+  },
+  {
+    "name": "W_B04_Yoke_M8x25_1_-1_0_-24",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      212.0,
+      -102.0,
+      -32.0,
+      228.0,
+      -100.4,
+      -16.0
+    ],
+    "volume_mm3": 233.03077667267644
+  },
+  {
+    "name": "W_B04_Yoke_M8x25_1_-1_0_-8",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      212.0,
+      -102.0,
+      -16.0,
+      228.0,
+      -100.4,
+      0.0
+    ],
+    "volume_mm3": 233.03077667267638
+  },
+  {
+    "name": "W_B05_Top_M6x25_1_-1_-20",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      194.0,
+      -114.0,
+      12.0,
+      206.0,
+      -102.0,
+      13.6
+    ],
+    "volume_mm3": 129.483882810357
+  },
+  {
+    "name": "W_B05_Top_M6x25_1_-1_20",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      234.0,
+      -114.0,
+      12.0,
+      246.0,
+      -102.0,
+      13.6
+    ],
+    "volume_mm3": 129.483882810357
+  },
+  {
+    "name": "W_B04_Yoke_M8x25_1_1_0_-40",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      212.0,
+      100.4,
+      -48.0,
+      228.0,
+      102.0,
+      -32.0
+    ],
+    "volume_mm3": 233.03077667267638
+  },
+  {
+    "name": "W_B04_Yoke_M8x25_1_1_0_-24",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      212.0,
+      100.4,
+      -32.0,
+      228.0,
+      102.0,
+      -16.0
+    ],
+    "volume_mm3": 233.03077667267644
+  },
+  {
+    "name": "W_B04_Yoke_M8x25_1_1_0_-8",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      212.0,
+      100.4,
+      -16.0,
+      228.0,
+      102.0,
+      0.0
+    ],
+    "volume_mm3": 233.03077667267638
+  },
+  {
+    "name": "W_B05_Top_M6x25_1_1_-20",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      194.0,
+      102.0,
+      12.0,
+      206.0,
+      114.0,
+      13.6
+    ],
+    "volume_mm3": 129.483882810357
+  },
+  {
+    "name": "W_B05_Top_M6x25_1_1_20",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      234.0,
+      102.0,
+      12.0,
+      246.0,
+      114.0,
+      13.6
+    ],
+    "volume_mm3": 129.483882810357
+  },
+  {
+    "name": "W_B08_Splice_M8x20_-1_-1_-1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -278.0,
+      -142.0,
+      476.0,
+      -262.0,
+      -126.0,
+      477.6
+    ],
+    "volume_mm3": 233.03077667267786
+  },
+  {
+    "name": "TN_B08_Splice_M8x20_-1_-1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 Tnut envelope",
+    "bbox": [
+      -278.5,
+      -139.0,
+      459.0,
+      -261.5,
+      -129.0,
+      465.0
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "W_B08_Splice_M8x20_-1_-1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -278.0,
+      -102.0,
+      476.0,
+      -262.0,
+      -86.0,
+      477.6
+    ],
+    "volume_mm3": 233.0307766726779
+  },
+  {
+    "name": "TN_B08_Splice_M8x20_-1_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 Tnut envelope",
+    "bbox": [
+      -278.5,
+      -99.0,
+      459.0,
+      -261.5,
+      -89.0,
+      465.0
+    ],
+    "volume_mm3": 802.099133547012
+  },
+  {
+    "name": "W_B08_Splice_M8x20_-1_1_-1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -278.0,
+      86.0,
+      476.0,
+      -262.0,
+      102.0,
+      477.6
+    ],
+    "volume_mm3": 233.0307766726779
+  },
+  {
+    "name": "TN_B08_Splice_M8x20_-1_1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 Tnut envelope",
+    "bbox": [
+      -278.5,
+      89.0,
+      459.0,
+      -261.5,
+      99.0,
+      465.0
+    ],
+    "volume_mm3": 802.099133547012
+  },
+  {
+    "name": "W_B08_Splice_M8x20_-1_1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -278.0,
+      126.0,
+      476.0,
+      -262.0,
+      142.0,
+      477.6
+    ],
+    "volume_mm3": 233.03077667267786
+  },
+  {
+    "name": "TN_B08_Splice_M8x20_-1_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 Tnut envelope",
+    "bbox": [
+      -278.5,
+      129.0,
+      459.0,
+      -261.5,
+      139.0,
+      465.0
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "W_B08_Splice_M8x20_1_-1_-1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      262.0,
+      -142.0,
+      476.0,
+      278.0,
+      -126.0,
+      477.6
+    ],
+    "volume_mm3": 233.03077667267786
+  },
+  {
+    "name": "TN_B08_Splice_M8x20_1_-1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 Tnut envelope",
+    "bbox": [
+      261.5,
+      -139.0,
+      459.0,
+      278.5,
+      -129.0,
+      465.0
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "W_B08_Splice_M8x20_1_-1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      262.0,
+      -102.0,
+      476.0,
+      278.0,
+      -86.0,
+      477.6
+    ],
+    "volume_mm3": 233.0307766726779
+  },
+  {
+    "name": "TN_B08_Splice_M8x20_1_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 Tnut envelope",
+    "bbox": [
+      261.5,
+      -99.0,
+      459.0,
+      278.5,
+      -89.0,
+      465.0
+    ],
+    "volume_mm3": 802.099133547012
+  },
+  {
+    "name": "W_B08_Splice_M8x20_1_1_-1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      262.0,
+      86.0,
+      476.0,
+      278.0,
+      102.0,
+      477.6
+    ],
+    "volume_mm3": 233.0307766726779
+  },
+  {
+    "name": "TN_B08_Splice_M8x20_1_1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 Tnut envelope",
+    "bbox": [
+      261.5,
+      89.0,
+      459.0,
+      278.5,
+      99.0,
+      465.0
+    ],
+    "volume_mm3": 802.099133547012
+  },
+  {
+    "name": "W_B08_Splice_M8x20_1_1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      262.0,
+      126.0,
+      476.0,
+      278.0,
+      142.0,
+      477.6
+    ],
+    "volume_mm3": 233.03077667267786
+  },
+  {
+    "name": "TN_B08_Splice_M8x20_1_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 Tnut envelope",
+    "bbox": [
+      261.5,
+      129.0,
+      459.0,
+      278.5,
+      139.0,
+      465.0
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "W_B09_Angle_side_motor_-1_-1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -60.0,
+      -142.0,
+      402.0,
+      -58.4,
+      -126.0,
+      418.0
+    ],
+    "volume_mm3": 233.03077667267647
+  },
+  {
+    "name": "TN_B09_Angle_side_motor_-1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 Tnut envelope",
+    "bbox": [
+      -76.0,
+      -139.0,
+      401.5,
+      -70.0,
+      -129.0,
+      418.5
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "W_B10_Angle_bottom_motor_-1_-1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -53.0,
+      -142.0,
+      423.4,
+      -37.0,
+      -126.0,
+      425.0
+    ],
+    "volume_mm3": 233.0307766726775
+  },
+  {
+    "name": "TN_B10_Angle_bottom_motor_-1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 Tnut envelope",
+    "bbox": [
+      -53.5,
+      -139.0,
+      433.0,
+      -36.5,
+      -129.0,
+      439.0
+    ],
+    "volume_mm3": 802.0991335470118
+  },
+  {
+    "name": "W_B09_Angle_side_guide_-1_-1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -195.0,
+      -142.0,
+      402.0,
+      -193.4,
+      -126.0,
+      418.0
+    ],
+    "volume_mm3": 233.03077667267613
+  },
+  {
+    "name": "TN_B09_Angle_side_guide_-1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 Tnut envelope",
+    "bbox": [
+      -211.0,
+      -139.0,
+      401.5,
+      -205.0,
+      -129.0,
+      418.5
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "W_B10_Angle_bottom_guide_-1_-1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -188.0,
+      -142.0,
+      423.4,
+      -172.0,
+      -126.0,
+      425.0
+    ],
+    "volume_mm3": 233.03077667267775
+  },
+  {
+    "name": "TN_B10_Angle_bottom_guide_-1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 Tnut envelope",
+    "bbox": [
+      -188.5,
+      -139.0,
+      433.0,
+      -171.5,
+      -129.0,
+      439.0
+    ],
+    "volume_mm3": 802.099133547012
+  },
+  {
+    "name": "W_B09_Angle_side_motor_1_-1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      110.0,
+      -142.0,
+      402.0,
+      111.6,
+      -126.0,
+      418.0
+    ],
+    "volume_mm3": 233.0307766726761
+  },
+  {
+    "name": "TN_B09_Angle_side_motor_1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 Tnut envelope",
+    "bbox": [
+      94.0,
+      -139.0,
+      401.5,
+      100.0,
+      -129.0,
+      418.5
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "W_B10_Angle_bottom_motor_1_-1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      117.0,
+      -142.0,
+      423.4,
+      133.0,
+      -126.0,
+      425.0
+    ],
+    "volume_mm3": 233.03077667267752
+  },
+  {
+    "name": "TN_B10_Angle_bottom_motor_1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 Tnut envelope",
+    "bbox": [
+      116.5,
+      -139.0,
+      433.0,
+      133.5,
+      -129.0,
+      439.0
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "W_B09_Angle_side_guide_1_-1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      245.0,
+      -142.0,
+      402.0,
+      246.6,
+      -126.0,
+      418.0
+    ],
+    "volume_mm3": 233.0307766726761
+  },
+  {
+    "name": "TN_B09_Angle_side_guide_1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 Tnut envelope",
+    "bbox": [
+      229.0,
+      -139.0,
+      401.5,
+      235.0,
+      -129.0,
+      418.5
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "W_B10_Angle_bottom_guide_1_-1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      252.0,
+      -142.0,
+      423.4,
+      268.0,
+      -126.0,
+      425.0
+    ],
+    "volume_mm3": 233.03077667267777
+  },
+  {
+    "name": "TN_B10_Angle_bottom_guide_1_-1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 Tnut envelope",
+    "bbox": [
+      251.5,
+      -139.0,
+      433.0,
+      268.5,
+      -129.0,
+      439.0
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "W_B09_Angle_side_motor_-1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -60.0,
+      126.0,
+      402.0,
+      -58.4,
+      142.0,
+      418.0
+    ],
+    "volume_mm3": 233.03077667267658
+  },
+  {
+    "name": "TN_B09_Angle_side_motor_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 Tnut envelope",
+    "bbox": [
+      -76.0,
+      129.0,
+      401.5,
+      -70.0,
+      139.0,
+      418.5
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "W_B10_Angle_bottom_motor_-1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -53.0,
+      126.0,
+      423.4,
+      -37.0,
+      142.0,
+      425.0
+    ],
+    "volume_mm3": 233.03077667267752
+  },
+  {
+    "name": "TN_B10_Angle_bottom_motor_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 Tnut envelope",
+    "bbox": [
+      -53.5,
+      129.0,
+      433.0,
+      -36.5,
+      139.0,
+      439.0
+    ],
+    "volume_mm3": 802.0991335470118
+  },
+  {
+    "name": "W_B09_Angle_side_guide_-1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -195.0,
+      126.0,
+      402.0,
+      -193.4,
+      142.0,
+      418.0
+    ],
+    "volume_mm3": 233.0307766726762
+  },
+  {
+    "name": "TN_B09_Angle_side_guide_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 Tnut envelope",
+    "bbox": [
+      -211.0,
+      129.0,
+      401.5,
+      -205.0,
+      139.0,
+      418.5
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "W_B10_Angle_bottom_guide_-1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -188.0,
+      126.0,
+      423.4,
+      -172.0,
+      142.0,
+      425.0
+    ],
+    "volume_mm3": 233.03077667267777
+  },
+  {
+    "name": "TN_B10_Angle_bottom_guide_-1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 Tnut envelope",
+    "bbox": [
+      -188.5,
+      129.0,
+      433.0,
+      -171.5,
+      139.0,
+      439.0
+    ],
+    "volume_mm3": 802.099133547012
+  },
+  {
+    "name": "W_B09_Angle_side_motor_1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      110.0,
+      126.0,
+      402.0,
+      111.6,
+      142.0,
+      418.0
+    ],
+    "volume_mm3": 233.0307766726762
+  },
+  {
+    "name": "TN_B09_Angle_side_motor_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 Tnut envelope",
+    "bbox": [
+      94.0,
+      129.0,
+      401.5,
+      100.0,
+      139.0,
+      418.5
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "W_B10_Angle_bottom_motor_1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      117.0,
+      126.0,
+      423.4,
+      133.0,
+      142.0,
+      425.0
+    ],
+    "volume_mm3": 233.03077667267755
+  },
+  {
+    "name": "TN_B10_Angle_bottom_motor_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 Tnut envelope",
+    "bbox": [
+      116.5,
+      129.0,
+      433.0,
+      133.5,
+      139.0,
+      439.0
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "W_B09_Angle_side_guide_1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      245.0,
+      126.0,
+      402.0,
+      246.6,
+      142.0,
+      418.0
+    ],
+    "volume_mm3": 233.0307766726762
+  },
+  {
+    "name": "TN_B09_Angle_side_guide_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 Tnut envelope",
+    "bbox": [
+      229.0,
+      129.0,
+      401.5,
+      235.0,
+      139.0,
+      418.5
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "W_B10_Angle_bottom_guide_1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      252.0,
+      126.0,
+      423.4,
+      268.0,
+      142.0,
+      425.0
+    ],
+    "volume_mm3": 233.03077667267777
+  },
+  {
+    "name": "TN_B10_Angle_bottom_guide_1_1",
+    "category": "purchase",
+    "group": "bolt",
+    "material": "HFS8 series M8 Tnut envelope",
+    "bbox": [
+      251.5,
+      129.0,
+      433.0,
+      268.5,
+      139.0,
+      439.0
+    ],
+    "volume_mm3": 802.0991335470119
+  },
+  {
+    "name": "W_B11_Brace_motor_-1_-1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -128.0,
+      -163.6,
+      122.0,
+      -112.0,
+      -162.0,
+      138.0
+    ],
+    "volume_mm3": 233.03077667267615
+  },
+  {
+    "name": "W_B11_Brace_motor_-1_-1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -148.0,
+      -163.6,
+      122.0,
+      -132.0,
+      -162.0,
+      138.0
+    ],
+    "volume_mm3": 233.0307766726764
+  },
+  {
+    "name": "W_B11_Brace_motor_-1_-1_2",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -93.0,
+      -163.6,
+      147.0,
+      -77.0,
+      -162.0,
+      163.0
+    ],
+    "volume_mm3": 233.03077667267615
+  },
+  {
+    "name": "W_B11_Brace_motor_-1_-1_3",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -93.0,
+      -163.6,
+      167.0,
+      -77.0,
+      -162.0,
+      183.0
+    ],
+    "volume_mm3": 233.03077667267615
+  },
+  {
+    "name": "W_B11_Brace_guide_-1_-1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -173.0,
+      -163.6,
+      122.0,
+      -157.0,
+      -162.0,
+      138.0
+    ],
+    "volume_mm3": 233.0307766726764
+  },
+  {
+    "name": "W_B11_Brace_guide_-1_-1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -193.0,
+      -163.6,
+      122.0,
+      -177.0,
+      -162.0,
+      138.0
+    ],
+    "volume_mm3": 233.0307766726764
+  },
+  {
+    "name": "W_B11_Brace_guide_-1_-1_2",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -228.0,
+      -163.6,
+      147.0,
+      -212.0,
+      -162.0,
+      163.0
+    ],
+    "volume_mm3": 233.03077667267638
+  },
+  {
+    "name": "W_B11_Brace_guide_-1_-1_3",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -228.0,
+      -163.6,
+      167.0,
+      -212.0,
+      -162.0,
+      183.0
+    ],
+    "volume_mm3": 233.03077667267638
+  },
+  {
+    "name": "W_B11_Brace_motor_1_-1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      112.0,
+      -163.6,
+      122.0,
+      128.0,
+      -162.0,
+      138.0
+    ],
+    "volume_mm3": 233.03077667267615
+  },
+  {
+    "name": "W_B11_Brace_motor_1_-1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      132.0,
+      -163.6,
+      122.0,
+      148.0,
+      -162.0,
+      138.0
+    ],
+    "volume_mm3": 233.03077667267644
+  },
+  {
+    "name": "W_B11_Brace_motor_1_-1_2",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      77.0,
+      -163.6,
+      147.0,
+      93.0,
+      -162.0,
+      163.0
+    ],
+    "volume_mm3": 233.03077667267615
+  },
+  {
+    "name": "W_B11_Brace_motor_1_-1_3",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      77.0,
+      -163.6,
+      167.0,
+      93.0,
+      -162.0,
+      183.0
+    ],
+    "volume_mm3": 233.03077667267615
+  },
+  {
+    "name": "W_B11_Brace_guide_1_-1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      157.0,
+      -163.6,
+      122.0,
+      173.0,
+      -162.0,
+      138.0
+    ],
+    "volume_mm3": 233.0307766726764
+  },
+  {
+    "name": "W_B11_Brace_guide_1_-1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      177.0,
+      -163.6,
+      122.0,
+      193.0,
+      -162.0,
+      138.0
+    ],
+    "volume_mm3": 233.0307766726764
+  },
+  {
+    "name": "W_B11_Brace_guide_1_-1_2",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      212.0,
+      -163.6,
+      147.0,
+      228.0,
+      -162.0,
+      163.0
+    ],
+    "volume_mm3": 233.03077667267638
+  },
+  {
+    "name": "W_B11_Brace_guide_1_-1_3",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      212.0,
+      -163.6,
+      167.0,
+      228.0,
+      -162.0,
+      183.0
+    ],
+    "volume_mm3": 233.03077667267638
+  },
+  {
+    "name": "W_B11_Brace_motor_-1_1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -128.0,
+      162.0,
+      122.0,
+      -112.0,
+      163.6,
+      138.0
+    ],
+    "volume_mm3": 233.03077667267615
+  },
+  {
+    "name": "W_B11_Brace_motor_-1_1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -148.0,
+      162.0,
+      122.0,
+      -132.0,
+      163.6,
+      138.0
+    ],
+    "volume_mm3": 233.0307766726764
+  },
+  {
+    "name": "W_B11_Brace_motor_-1_1_2",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -93.0,
+      162.0,
+      147.0,
+      -77.0,
+      163.6,
+      163.0
+    ],
+    "volume_mm3": 233.03077667267615
+  },
+  {
+    "name": "W_B11_Brace_motor_-1_1_3",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -93.0,
+      162.0,
+      167.0,
+      -77.0,
+      163.6,
+      183.0
+    ],
+    "volume_mm3": 233.03077667267615
+  },
+  {
+    "name": "W_B11_Brace_guide_-1_1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -173.0,
+      162.0,
+      122.0,
+      -157.0,
+      163.6,
+      138.0
+    ],
+    "volume_mm3": 233.0307766726764
+  },
+  {
+    "name": "W_B11_Brace_guide_-1_1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -193.0,
+      162.0,
+      122.0,
+      -177.0,
+      163.6,
+      138.0
+    ],
+    "volume_mm3": 233.0307766726764
+  },
+  {
+    "name": "W_B11_Brace_guide_-1_1_2",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -228.0,
+      162.0,
+      147.0,
+      -212.0,
+      163.6,
+      163.0
+    ],
+    "volume_mm3": 233.03077667267638
+  },
+  {
+    "name": "W_B11_Brace_guide_-1_1_3",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -228.0,
+      162.0,
+      167.0,
+      -212.0,
+      163.6,
+      183.0
+    ],
+    "volume_mm3": 233.03077667267638
+  },
+  {
+    "name": "W_B11_Brace_motor_1_1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      112.0,
+      162.0,
+      122.0,
+      128.0,
+      163.6,
+      138.0
+    ],
+    "volume_mm3": 233.03077667267615
+  },
+  {
+    "name": "W_B11_Brace_motor_1_1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      132.0,
+      162.0,
+      122.0,
+      148.0,
+      163.6,
+      138.0
+    ],
+    "volume_mm3": 233.03077667267644
+  },
+  {
+    "name": "W_B11_Brace_motor_1_1_2",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      77.0,
+      162.0,
+      147.0,
+      93.0,
+      163.6,
+      163.0
+    ],
+    "volume_mm3": 233.03077667267615
+  },
+  {
+    "name": "W_B11_Brace_motor_1_1_3",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      77.0,
+      162.0,
+      167.0,
+      93.0,
+      163.6,
+      183.0
+    ],
+    "volume_mm3": 233.03077667267615
+  },
+  {
+    "name": "W_B11_Brace_guide_1_1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      157.0,
+      162.0,
+      122.0,
+      173.0,
+      163.6,
+      138.0
+    ],
+    "volume_mm3": 233.0307766726764
+  },
+  {
+    "name": "W_B11_Brace_guide_1_1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      177.0,
+      162.0,
+      122.0,
+      193.0,
+      163.6,
+      138.0
+    ],
+    "volume_mm3": 233.0307766726764
+  },
+  {
+    "name": "W_B11_Brace_guide_1_1_2",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      212.0,
+      162.0,
+      147.0,
+      228.0,
+      163.6,
+      163.0
+    ],
+    "volume_mm3": 233.03077667267638
+  },
+  {
+    "name": "W_B11_Brace_guide_1_1_3",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      212.0,
+      162.0,
+      167.0,
+      228.0,
+      163.6,
+      183.0
+    ],
+    "volume_mm3": 233.03077667267638
+  },
+  {
+    "name": "W12_Spindle_-1_-1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -232.0,
+      -70.06125,
+      -66.5,
+      -208.0,
+      -46.06125,
+      -64.0
+    ],
+    "volume_mm3": 799.1426312569035
+  },
+  {
+    "name": "W12_Spindle_-1_-1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -232.0,
+      -70.06125,
+      24.0,
+      -208.0,
+      -46.06125,
+      26.5
+    ],
+    "volume_mm3": 799.1426312569035
+  },
+  {
+    "name": "W12_Spindle_-1_1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -232.0,
+      46.06125,
+      -66.5,
+      -208.0,
+      70.06125,
+      -64.0
+    ],
+    "volume_mm3": 799.1426312569035
+  },
+  {
+    "name": "W12_Spindle_-1_1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      -232.0,
+      46.06125,
+      24.0,
+      -208.0,
+      70.06125,
+      26.5
+    ],
+    "volume_mm3": 799.1426312569035
+  },
+  {
+    "name": "W12_Spindle_1_-1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      208.0,
+      -70.06125,
+      -66.5,
+      232.0,
+      -46.06125,
+      -64.0
+    ],
+    "volume_mm3": 799.1426312569035
+  },
+  {
+    "name": "W12_Spindle_1_-1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      208.0,
+      -70.06125,
+      24.0,
+      232.0,
+      -46.06125,
+      26.5
+    ],
+    "volume_mm3": 799.1426312569035
+  },
+  {
+    "name": "W12_Spindle_1_1_0",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      208.0,
+      46.06125,
+      -66.5,
+      232.0,
+      70.06125,
+      -64.0
+    ],
+    "volume_mm3": 799.1426312569035
+  },
+  {
+    "name": "W12_Spindle_1_1_1",
+    "category": "purchase",
+    "group": "steel",
+    "material": "hardened steel washer",
+    "bbox": [
+      208.0,
+      46.06125,
+      24.0,
+      232.0,
+      70.06125,
+      26.5
+    ],
+    "volume_mm3": 799.1426312569035
+  }
+]

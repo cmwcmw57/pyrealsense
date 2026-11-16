@@ -1,0 +1,10 @@
+{
+  "shape_valid": true,
+  "part_count": 424,
+  "reimported_solids": 424,
+  "interference_checks": 132,
+  "overlaps": [],
+  "source_step_sha256": "ce9303ae79df788480468781d3e9fe2349010c0840a7d07f90ea7edd834a675f",
+  "STL_status": "NOT_READ:32MiB transfer limit and Thingiverse403; user supplied rail PDF as fallback",
+  "rail_source": "KRS TR0001-15(R) appendix3 60K, site rail unconfirmed; fillets approximate"
+}

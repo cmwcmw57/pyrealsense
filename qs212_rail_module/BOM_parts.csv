@@ -1,0 +1,87 @@
+part_name,category,material_or_purchase_family,quantity,note
+M01_Rotating_tire_ASSUMED,purchase,rubber3.00-10 ASSUMED,1,"Section approximates uploaded STEP; actual tire OD,width and load rating TBD."
+M02_Rotating_motor_envelope,purchase,QS212 1200W input reference,1,Motor only; no holes or attachments added to housing.
+F01_Long_beam_-1,purchase,"HFS8-4040 family; 10mm slot, section envelope",1,Supplier full section CAD and allowable connection loads required.
+F02_Post_motor_-1_-1,purchase,"HFS8-4040 family; 10mm slot, section envelope",1,Supplier full section CAD and allowable connection loads required.
+F02_Post_guide_-1_-1,purchase,"HFS8-4040 family; 10mm slot, section envelope",1,Supplier full section CAD and allowable connection loads required.
+F02_Post_motor_1_-1,purchase,"HFS8-4040 family; 10mm slot, section envelope",1,Supplier full section CAD and allowable connection loads required.
+F02_Post_guide_1_-1,purchase,"HFS8-4040 family; 10mm slot, section envelope",1,Supplier full section CAD and allowable connection loads required.
+F01_Long_beam_1,purchase,"HFS8-4040 family; 10mm slot, section envelope",1,Supplier full section CAD and allowable connection loads required.
+F02_Post_motor_-1_1,purchase,"HFS8-4040 family; 10mm slot, section envelope",1,Supplier full section CAD and allowable connection loads required.
+F02_Post_guide_-1_1,purchase,"HFS8-4040 family; 10mm slot, section envelope",1,Supplier full section CAD and allowable connection loads required.
+F02_Post_motor_1_1,purchase,"HFS8-4040 family; 10mm slot, section envelope",1,Supplier full section CAD and allowable connection loads required.
+F02_Post_guide_1_1,purchase,"HFS8-4040 family; 10mm slot, section envelope",1,Supplier full section CAD and allowable connection loads required.
+F03_Cross_beam_-1,purchase,"HFS8-4040 family; 10mm slot, section envelope",1,Supplier full section CAD and allowable connection loads required.
+F03_Cross_beam_1,purchase,"HFS8-4040 family; 10mm slot, section envelope",1,Supplier full section CAD and allowable connection loads required.
+A01_Axle_plate_-1,custom,S355 steel,1,Laser outer contour; CNC slot and flats; S355 10mm. Notch tolerance final per measured axle.
+A02_Torque_keeper_-1,custom,S355 steel,1,"2x M8 tapped; lower axle flat restraint, bolt from outboard face. Machine upper face."
+A03_M16_washer_-1,purchase,OEM M16 hardened washer,1,
+A04_M16_axle_nut_-1,purchase,OEM M16x1.5 nut; confirm thread,1,
+A01_Axle_plate_1,custom,S355 steel,1,Laser outer contour; CNC slot and flats; S355 10mm. Notch tolerance final per measured axle.
+A02_Torque_keeper_1,custom,S355 steel,1,"2x M8 tapped; lower axle flat restraint, bolt from outboard face. Machine upper face."
+A03_M16_washer_1,purchase,OEM M16 hardened washer,1,
+A04_M16_axle_nut_1,purchase,OEM M16x1.5 nut; confirm thread,1,
+G01_PU_roller_-1_-1,custom,bonded polyurethane ShoreA90; qualified roller supplier,1,OD50 W28 default. Purchase substitute only after dimensions/load/speed verified.
+G02_roller_core_-1_-1,custom,S355 steel,1,"6061-T6 core; OD42; 2x D32 bearing seats, center shoulder ID24. Seat/retention fit must be set with bearing supplier."
+G03_6002DDU_-1_-1_0,purchase,NSK6002DDU 15x32x9,1,
+G03_6002DDU_-1_-1_1,purchase,NSK6002DDU 15x32x9,1,
+G04_Inner_spacer_-1_-1,custom,C45 ground spacer,1,Length equal distance between bearing inner faces. No axial preload on outer races.
+G06_Spindle_-1_-1,custom,C45 normalized; D15 bearing seat; M12x1.75 ends,1,Double shear with reduced thread sections; no threads under bearing inner rings. Thread runout/fillet per fabrication draft.
+G07_Lower_yoke_weldment_-1_-1,custom,S355 steel,1,S355 wall12 + arm8; continuous 4mm fillet weld both sides accessible; stress-relieve/finish machine; top M6 tapped.
+G08_Removable_top_arm_-1_-1,custom,S355 steel,1,S355 arm8 + jack lug; 2x M6x25 into lower wall; shaft slot13x25; M8 horizontal jack thread.
+G09_Sliding_clamp_-1_-1_0,custom,S355 clamp40x40x12,1,
+G09_Sliding_clamp_-1_-1_1,custom,S355 clamp40x40x12,1,
+G01_PU_roller_-1_1,custom,bonded polyurethane ShoreA90; qualified roller supplier,1,OD50 W28 default. Purchase substitute only after dimensions/load/speed verified.
+G02_roller_core_-1_1,custom,S355 steel,1,"6061-T6 core; OD42; 2x D32 bearing seats, center shoulder ID24. Seat/retention fit must be set with bearing supplier."
+G03_6002DDU_-1_1_0,purchase,NSK6002DDU 15x32x9,1,
+G03_6002DDU_-1_1_1,purchase,NSK6002DDU 15x32x9,1,
+G04_Inner_spacer_-1_1,custom,C45 ground spacer,1,Length equal distance between bearing inner faces. No axial preload on outer races.
+G06_Spindle_-1_1,custom,C45 normalized; D15 bearing seat; M12x1.75 ends,1,Double shear with reduced thread sections; no threads under bearing inner rings. Thread runout/fillet per fabrication draft.
+G07_Lower_yoke_weldment_-1_1,custom,S355 steel,1,S355 wall12 + arm8; continuous 4mm fillet weld both sides accessible; stress-relieve/finish machine; top M6 tapped.
+G08_Removable_top_arm_-1_1,custom,S355 steel,1,S355 arm8 + jack lug; 2x M6x25 into lower wall; shaft slot13x25; M8 horizontal jack thread.
+G09_Sliding_clamp_-1_1_0,custom,S355 clamp40x40x12,1,
+G09_Sliding_clamp_-1_1_1,custom,S355 clamp40x40x12,1,
+G01_PU_roller_1_-1,custom,bonded polyurethane ShoreA90; qualified roller supplier,1,OD50 W28 default. Purchase substitute only after dimensions/load/speed verified.
+G02_roller_core_1_-1,custom,S355 steel,1,"6061-T6 core; OD42; 2x D32 bearing seats, center shoulder ID24. Seat/retention fit must be set with bearing supplier."
+G03_6002DDU_1_-1_0,purchase,NSK6002DDU 15x32x9,1,
+G03_6002DDU_1_-1_1,purchase,NSK6002DDU 15x32x9,1,
+G04_Inner_spacer_1_-1,custom,C45 ground spacer,1,Length equal distance between bearing inner faces. No axial preload on outer races.
+G06_Spindle_1_-1,custom,C45 normalized; D15 bearing seat; M12x1.75 ends,1,Double shear with reduced thread sections; no threads under bearing inner rings. Thread runout/fillet per fabrication draft.
+G07_Lower_yoke_weldment_1_-1,custom,S355 steel,1,S355 wall12 + arm8; continuous 4mm fillet weld both sides accessible; stress-relieve/finish machine; top M6 tapped.
+G08_Removable_top_arm_1_-1,custom,S355 steel,1,S355 arm8 + jack lug; 2x M6x25 into lower wall; shaft slot13x25; M8 horizontal jack thread.
+G09_Sliding_clamp_1_-1_0,custom,S355 clamp40x40x12,1,
+G09_Sliding_clamp_1_-1_1,custom,S355 clamp40x40x12,1,
+G01_PU_roller_1_1,custom,bonded polyurethane ShoreA90; qualified roller supplier,1,OD50 W28 default. Purchase substitute only after dimensions/load/speed verified.
+G02_roller_core_1_1,custom,S355 steel,1,"6061-T6 core; OD42; 2x D32 bearing seats, center shoulder ID24. Seat/retention fit must be set with bearing supplier."
+G03_6002DDU_1_1_0,purchase,NSK6002DDU 15x32x9,1,
+G03_6002DDU_1_1_1,purchase,NSK6002DDU 15x32x9,1,
+G04_Inner_spacer_1_1,custom,C45 ground spacer,1,Length equal distance between bearing inner faces. No axial preload on outer races.
+G06_Spindle_1_1,custom,C45 normalized; D15 bearing seat; M12x1.75 ends,1,Double shear with reduced thread sections; no threads under bearing inner rings. Thread runout/fillet per fabrication draft.
+G07_Lower_yoke_weldment_1_1,custom,S355 steel,1,S355 wall12 + arm8; continuous 4mm fillet weld both sides accessible; stress-relieve/finish machine; top M6 tapped.
+G08_Removable_top_arm_1_1,custom,S355 steel,1,S355 arm8 + jack lug; 2x M6x25 into lower wall; shaft slot13x25; M8 horizontal jack thread.
+G09_Sliding_clamp_1_1_0,custom,S355 clamp40x40x12,1,
+G09_Sliding_clamp_1_1_1,custom,S355 clamp40x40x12,1,
+F04_Angle_envelope_motor_-1_-1,purchase,HBLFSN8 family 40-series angle; envelope only,1,Replace with supplier CAD before ordering hole-sensitive parts.
+F04_Angle_envelope_guide_-1_-1,purchase,HBLFSN8 family 40-series angle; envelope only,1,Replace with supplier CAD before ordering hole-sensitive parts.
+F04_Angle_envelope_motor_1_-1,purchase,HBLFSN8 family 40-series angle; envelope only,1,Replace with supplier CAD before ordering hole-sensitive parts.
+F04_Angle_envelope_guide_1_-1,purchase,HBLFSN8 family 40-series angle; envelope only,1,Replace with supplier CAD before ordering hole-sensitive parts.
+F04_Angle_envelope_motor_-1_1,purchase,HBLFSN8 family 40-series angle; envelope only,1,Replace with supplier CAD before ordering hole-sensitive parts.
+F04_Angle_envelope_guide_-1_1,purchase,HBLFSN8 family 40-series angle; envelope only,1,Replace with supplier CAD before ordering hole-sensitive parts.
+F04_Angle_envelope_motor_1_1,purchase,HBLFSN8 family 40-series angle; envelope only,1,Replace with supplier CAD before ordering hole-sensitive parts.
+F04_Angle_envelope_guide_1_1,purchase,HBLFSN8 family 40-series angle; envelope only,1,Replace with supplier CAD before ordering hole-sensitive parts.
+F05_Top_splice_-1_-1,custom,S355 steel,1,S35540x80x6; 2xD9 on40 pitch; top faces of crossbeam and longbeam.
+F05_Top_splice_-1_1,custom,S355 steel,1,S35540x80x6; 2xD9 on40 pitch; top faces of crossbeam and longbeam.
+F05_Top_splice_1_-1,custom,S355 steel,1,S35540x80x6; 2xD9 on40 pitch; top faces of crossbeam and longbeam.
+F05_Top_splice_1_1,custom,S355 steel,1,S35540x80x6; 2xD9 on40 pitch; top faces of crossbeam and longbeam.
+F06_Low_bridge_-1_-1,purchase,"HFS8-4040 family; 10mm slot, section envelope",1,Supplier full section CAD and allowable connection loads required.
+F07_Low_gusset_motor_-1_-1,custom,S355 steel,1,S3556mm low bridge joint plate;4M8 to actual outer T-slot centre lines.
+F07_Low_gusset_guide_-1_-1,custom,S355 steel,1,S3556mm low bridge joint plate;4M8 to actual outer T-slot centre lines.
+F06_Low_bridge_1_-1,purchase,"HFS8-4040 family; 10mm slot, section envelope",1,Supplier full section CAD and allowable connection loads required.
+F07_Low_gusset_motor_1_-1,custom,S355 steel,1,S3556mm low bridge joint plate;4M8 to actual outer T-slot centre lines.
+F07_Low_gusset_guide_1_-1,custom,S355 steel,1,S3556mm low bridge joint plate;4M8 to actual outer T-slot centre lines.
+F06_Low_bridge_-1_1,purchase,"HFS8-4040 family; 10mm slot, section envelope",1,Supplier full section CAD and allowable connection loads required.
+F07_Low_gusset_motor_-1_1,custom,S355 steel,1,S3556mm low bridge joint plate;4M8 to actual outer T-slot centre lines.
+F07_Low_gusset_guide_-1_1,custom,S355 steel,1,S3556mm low bridge joint plate;4M8 to actual outer T-slot centre lines.
+F06_Low_bridge_1_1,purchase,"HFS8-4040 family; 10mm slot, section envelope",1,Supplier full section CAD and allowable connection loads required.
+F07_Low_gusset_motor_1_1,custom,S355 steel,1,S3556mm low bridge joint plate;4M8 to actual outer T-slot centre lines.
+F07_Low_gusset_guide_1_1,custom,S355 steel,1,S3556mm low bridge joint plate;4M8 to actual outer T-slot centre lines.

@@ -1,0 +1,34 @@
+﻿item,type,qty_per_module,specification_draft,notes
+QS212 motor,purchase,1,1200W input-model reference,OEM exact variant/axle/cable/brake drawing required
+3.00-10 tire,purchase,1,OD406.4 W76.2 assumed,actual inflated size and load rating required
+HFS8-4040 long beam,purchase-cut,2,"L580, slot10 series8",supplier CAD; 6063/6005 family
+HFS8-4040 motor post,purchase-cut,4,L320,fromZ110to430
+HFS8-4040 guide post,purchase-cut,4,L482,no mixing8mm slot hardware
+HFS8-4040 crossbeam,purchase-cut,2,L228,top flush to longbeam
+Low bridge 4040,purchase-cut,4,"L95,Z110to150",F06; connects guidepost to motorpost
+Low bridge gusset,custom,8,"S355t6,95x80,4xD9",F07; outer side faces
+Low bridge bolts+washers+Tnuts,purchase,32,M8x20+1.6washer+2shim+M8Tnut,verify exact supplier Tnut engagement
+40series angle,purchase,8,HBLFSN8 family envelope,catalogue exact hole geometry confirmation
+Top splice plate,custom,4,"S355 40x80x6,2xD9 pitch40",F05
+Axle support plate,custom,2,"S355 t10,220x170, open notch16.2",A01; exact axle fit pending
+Axle torque keeper,custom,2,"S355 t10,2xM8 tap",A02; remove to lower wheel
+Plate spacers,custom,12,OD20 ID9 L13.75,equal lengths; update with actual OLD
+Guide lower yoke,custom-weld,4,wall12 arm8;4mm fillet weld draft,G07;3M8 on centre T slot
+Guide top arm,custom-weld,4,"arm8+jack lug,2M6 through",G08; removable
+Crowned PU roller tread,custom,4,"OD50 W28,crown0.5radial,ShoreA90",bonded to core; rating unverified
+Roller core,custom,4,"6061-T6 OD42,2xD32 seats",bearing retention fit pending
+6002DDU bearing,purchase,8,15x32x9,NSK catalogue link in report
+Inner bearing spacer,custom,4,OD21 ID15.2 L10,inner rings only
+End bearing spacer,custom,8,OD21 ID15.2 L10,inner rings only
+Guide spindle,custom,4,"C45 D15x48,2xM12x1.75 L38 ends",shaft total124; fillets/threadrunout pending
+Sliding clamp block,custom,8,"S355 40x40x12,D13",top and bottom of slot
+M12 prevailing torque nut,purchase,8,M12x1.75,plus8 hardened washers2.5thick
+M8 jack screw + jam nut,purchase,4,"M8x40, class8.8",push-only; movement+-6
+OEM axle nut+washer,purchase,2,M16x1.5 nut13 + hardened washer3 assumed,MUST confirm OEM
+M8x35+washer+T nut,purchase,12,class8.8; axle plate to post,6 per side
+M8x20 keeper screws,purchase,4,class8.8; into keeper M8,2 per side
+M8x25+washer+T nut,purchase,12,class8.8; guide yoke to post,3 per yoke
+M6x25+washer,purchase,8,class8.8; removable top arm,2 per yoke
+M8x16+washer+T nut,purchase,16,class8.8;8 catalogue angles,2 per angle
+M8x20+washer+T nut,purchase,8,class8.8; top splice plates,2 per splice
+Brake/anti-lift,NOT_SELECTED,0,required vehicle safety subsystems,not included in main module CAD

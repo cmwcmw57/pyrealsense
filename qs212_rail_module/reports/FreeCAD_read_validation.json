@@ -1,0 +1,16 @@
+[
+  {
+    "file": "Module_assembly.step",
+    "freecad_version": "1.0.0",
+    "null": false,
+    "valid": true,
+    "solid_count": 424
+  },
+  {
+    "file": "Module_exploded.step",
+    "freecad_version": "1.0.0",
+    "null": false,
+    "valid": true,
+    "solid_count": 423
+  }
+]
