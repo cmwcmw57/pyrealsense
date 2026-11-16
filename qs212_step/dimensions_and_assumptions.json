@@ -1,0 +1,32 @@
+{
+  "units": "mm",
+  "axis": "X",
+  "origin": "wheel centre",
+  "valid": true,
+  "solids": 90,
+  "bbox_mm": [
+    270.0,
+    406.4,
+    406.4
+  ],
+  "reference_dimensions": {
+    "axle_tip_to_tip": 270,
+    "mounting_span_reference": 200.5,
+    "rim_flange_diameter": 279,
+    "rim_width": 73,
+    "shaft_nominal_diameter": 16,
+    "shaft_flats": 12
+  },
+  "assumed_dimensions": {
+    "tire_nominal": "3.00-10",
+    "tire_OD": 406.4,
+    "tire_width": 76.2,
+    "motor_covers_and_bosses": "approximate"
+  },
+  "limitations": [
+    "External assembly reference only, not a manufacturing model",
+    "Mounting shoulder positions and cover/boss details inferred from low-resolution drawing",
+    "Threads simplified; no cable, valve, brake rotor, caliper, internals or manufacturer-specific tread",
+    "Actual tire inflated dimensions and mounting/clearance must be confirmed"
+  ]
+}
