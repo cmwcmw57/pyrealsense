@@ -1,0 +1,15 @@
+center_radius_m,rail_radius_m,wheel_yaw_required_deg,guide_mismatch_centered_mm,guide_min_gap_after_optimal_lateral_shift_mm,gap_1mm_geometry_pass,inner_outer_speed_difference_percent,lateral_acceleration_m_s2,note
+25,24.25,1.1814399986285158,5.535829317079077,4.537233861887202,False,6.0,1.2345679012345678,Geometric screen only; tolerance/PU/loaded dynamics not included
+25,25.75,1.1126093315583843,5.213161068628125,4.272806279121966,False,6.0,1.2345679012345678,Geometric screen only; tolerance/PU/loaded dynamics not included
+50,49.25,0.5816930334416087,2.7250889279670787,2.233639939149157,False,3.0,0.6172839506172839,Geometric screen only; tolerance/PU/loaded dynamics not included
+50,50.75,0.5644995711060518,2.644532227776608,2.1676132582157948,False,3.0,0.6172839506172839,Geometric screen only; tolerance/PU/loaded dynamics not included
+100,99.25,0.28864494644807975,1.3521674274272755,1.1083291298987774,False,1.5,0.30864197530864196,Geometric screen only; tolerance/PU/loaded dynamics not included
+100,100.75,0.2843474675285579,1.3320351346663983,1.0918274630071778,False,1.5,0.30864197530864196,Geometric screen only; tolerance/PU/loaded dynamics not included
+150,149.25,0.19194601904845252,0.8991702333673857,0.7370233620065392,True,1.0,0.20576131687242796,Geometric screen only; tolerance/PU/loaded dynamics not included
+150,150.75,0.19003610137237092,0.8902231138563366,0.7296896994546387,True,1.0,0.20576131687242796,Geometric screen only; tolerance/PU/loaded dynamics not included
+200,199.25,0.14377876950190763,0.6735289804851163,0.5520723382659298,True,0.75,0.15432098765432098,Geometric screen only; tolerance/PU/loaded dynamics not included
+200,200.75,0.14270445517119157,0.6684963371981212,0.5479472340823577,True,0.75,0.15432098765432098,Geometric screen only; tolerance/PU/loaded dynamics not included
+300,299.25,0.09573234113962874,0.448455431524053,0.36758624318622424,True,0.5,0.10288065843621398,Geometric screen only; tolerance/PU/loaded dynamics not included
+300,300.75,0.09525487266301844,0.44621873655614763,0.365752889280202,True,0.5,0.10288065843621398,Geometric screen only; tolerance/PU/loaded dynamics not included
+500,499.25,0.05738186188392159,0.26880341198420865,0.22033062765558498,True,0.3,0.06172839506172839,Geometric screen only; tolerance/PU/loaded dynamics not included
+500,500.75,0.05720997407269059,0.2679982083009236,0.2196706249719682,True,0.3,0.06172839506172839,Geometric screen only; tolerance/PU/loaded dynamics not included

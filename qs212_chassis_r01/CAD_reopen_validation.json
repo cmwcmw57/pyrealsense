@@ -1,0 +1,12 @@
+{
+  "application": "FreeCAD",
+  "version": "1.0.0",
+  "valid": true,
+  "solids": 623,
+  "bounds_mm": [
+    2200.0,
+    1848.0,
+    704.0
+  ],
+  "note": "Reopen and topology check only, not assembly interference or dynamics"
+}

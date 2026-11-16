@@ -1,0 +1,11 @@
+center_radius_m,guide_total_pitch_mm,ideal_tangent_sagitta_mm,bogie_yaw_abs_deg,limitation
+25,440.0,0.9979586787949302,1.1459919983885924,ideal tangent bogie only; not dynamic proof
+25,300.0,0.4639219633730818,1.1459919983885924,ideal tangent bogie only; not dynamic proof
+50,440.0,0.49137300962343033,0.5729673448571527,ideal tangent bogie only; not dynamic proof
+50,300.0,0.22842692567337508,0.5729673448571527,ideal tangent bogie only; not dynamic proof
+100,440.0,0.24382901487740583,0.2864800912409137,ideal tangent bogie only; not dynamic proof
+100,300.0,0.11335019067360008,0.2864800912409137,ideal tangent bogie only; not dynamic proof
+150,440.0,0.16214414168302937,0.19098628538969414,ideal tangent bogie only; not dynamic proof
+150,300.0,0.0753769034531615,0.19098628538969414,ideal tangent bogie only; not dynamic proof
+200,440.0,0.1214554949910962,0.14323959799088462,ideal tangent bogie only; not dynamic proof
+200,300.0,0.056461739490032414,0.14323959799088462,ideal tangent bogie only; not dynamic proof

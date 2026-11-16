@@ -1,0 +1,7 @@
+grade_permille,grade_percent,angle_deg,wheel_torque_each_Nm,total_mechanical_power_W,minimum_mu_assumed_rear_half_load,gravity_only_downhill_force_N,note
+0,0.0,0.0,3.986784,218.0,0.04,0.0,"steady speed; no acceleration, motor map, thermal limit, wet grip or braking validation"
+10,1.0,0.5729386976834859,5.979877013623791,326.9836512261478,0.06,19.619019073568868,"steady speed; no acceleration, motor map, thermal limit, wet grip or braking validation"
+20,2.0,1.1457628381751035,7.971973764654664,435.91282615128307,0.08,39.23215435361548,"steady speed; no acceleration, motor map, thermal limit, wet grip or braking validation"
+35,3.5,2.004534032105904,10.95694692403469,599.133143265239,0.11000000000000001,68.62797822856375,"steady speed; no acceleration, motor map, thermal limit, wet grip or braking validation"
+50,5.0,2.862405226111748,13.936334456102692,762.0480345637955,0.14,97.97760444391658,"steady speed; no acceleration, motor map, thermal limit, wet grip or braking validation"
+80,8.0,4.573921259900861,19.870436017116834,1086.5286536043764,0.20000000000000004,156.4601261190302,"steady speed; no acceleration, motor map, thermal limit, wet grip or braking validation"

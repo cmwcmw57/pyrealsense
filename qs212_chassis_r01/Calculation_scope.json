@@ -1,0 +1,10 @@
+{
+  "method": "exact planar circle geometry and steady longitudinal force balance",
+  "straight_limit_verified": "curve mismatch tends to zero as radius tends to infinity",
+  "zero_grade_power_check": "mg*Crr*v matched",
+  "dynamics_simulated": false,
+  "contact_FEA": false,
+  "motor_map_available": false,
+  "braking_validated": false,
+  "real_route_input_available": false
+}

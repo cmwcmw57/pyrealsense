@@ -1,0 +1,18 @@
+{
+  "wheelbase_mm": 1000,
+  "rail_center_spacing_mm": 1500,
+  "gauge_reference_mm": 1435,
+  "head_width_mm": 65,
+  "frame_width_mm": 1808,
+  "frame_length_mm": 1700,
+  "frame_bottom_z_mm": 490,
+  "frame_section_mm": 40,
+  "module_mount_top_z_mm": 470,
+  "guide_half_pitch_mm": 220,
+  "guide_gap_mm": 1,
+  "tire_radius_mm": 203.2,
+  "mass_for_traction_kg": 200,
+  "speed_kmh": 20,
+  "rolling_resistance_assumed": 0.02,
+  "rear_normal_fraction_assumed": 0.5
+}

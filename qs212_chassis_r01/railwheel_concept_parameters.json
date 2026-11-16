@@ -1,0 +1,13 @@
+{
+  "wheelbase_mm": 1000,
+  "rail_centers_mm": 1500,
+  "wheel_tread_d_mm": 300,
+  "wheel_tread_width_mm": 90,
+  "flange_d_mm": 330,
+  "flange_thickness_mm": 8,
+  "guide_station_mm": 150,
+  "guide_od_mm": 50,
+  "guide_width_mm": 28,
+  "guide_y_offset_mm": 58.06125,
+  "status": "Concept only. No certified wheel profile or complete bolted structure. Separate rail-wheel drive required."
+}
